@@ -1,21 +1,22 @@
 <p align="center">
-  <img src="docs/logo.svg" alt="Engineering Skill Hub" width="480">
+  <img src="docs/logo.svg" alt="Engineering Skill Hub" width="600">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Engineering-Skills-blue?style=for-the-badge" alt="Engineering">
-  <img src="https://img.shields.io/badge/AI_Agent-Skills-green?style=for-the-badge" alt="AI Agent">
-  <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" alt="MIT License">
-  <img src="https://img.shields.io/badge/Compatible-Hermes%20%7C%20OpenClaw-purple?style=for-the-badge" alt="Compatible">
+  <img src="https://img.shields.io/badge/Engineering-Skills-3b82f6?style=flat-square&labelColor=1e293b" alt="Engineering">
+  <img src="https://img.shields.io/badge/AI_Agent-Skills-22c55e?style=flat-square&labelColor=1e293b" alt="AI Agent">
+  <img src="https://img.shields.io/badge/License-MIT-3b82f6?style=flat-square&labelColor=1e293b" alt="MIT License">
+  <img src="https://img.shields.io/badge/Compatible-Hermes%20%7C%20OpenClaw-a855f7?style=flat-square&labelColor=1e293b" alt="Compatible">
 </p>
 
 <p align="center">
-  <strong>工程领域的 AI Agent 技能库</strong>
+  工程领域的 AI Agent 技能库<br>
+  面向工程师和研究人员的可复用技能集合
 </p>
 
 <p align="center">
-  面向工程师和研究人员的可复用技能集合。<br>
-  每个 skill 都是独立的 <code>SKILL.md</code> 文件，兼容 <a href="https://github.com/nousresearch/hermes-agent">Hermes Agent</a> 和 <a href="https://github.com/openclaw/openclaw">OpenClaw</a>。
+  每个 skill 都是独立的 <code>SKILL.md</code> 文件<br>
+  兼容 <a href="https://github.com/nousresearch/hermes-agent">Hermes Agent</a> 和 <a href="https://github.com/openclaw/openclaw">OpenClaw</a>
 </p>
 
 ---
