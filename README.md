@@ -37,6 +37,15 @@
 
 | Skill | 描述 | 来源 | Star |
 |-------|------|------|------|
+| [text-to-cad](https://github.com/earthtojake/text-to-cad) | Agent skills 合集：CAD、机器人、硬件设计的自然语言驱动 | [earthtojake](https://github.com/earthtojake) | 2498 |
+| [atopile](https://github.com/atopile/atopile) | 用代码设计电路板，类软件工程的 PCB 设计工作流 | [atopile](https://github.com/atopile) | 3355 |
+| [freecad-mcp](https://github.com/neka-nat/freecad-mcp) | FreeCAD MCP server：AI 驱动参数化 CAD 建模 | [neka-nat](https://github.com/neka-nat) | 933 |
+| [freecad-ai](https://github.com/ghbalf/freecad-ai) | FreeCAD AI 工作台：自然语言生成 3D 模型 | [ghbalf](https://github.com/ghbalf) | 217 |
+| [freecad_mcp](https://github.com/bonninr/freecad_mcp) | FreeCAD MCP：连接 Claude/Cursor，参数化设计 | [bonninr](https://github.com/bonninr) | 182 |
+| [Fusion-360-MCP-Server](https://github.com/AuraFriday/Fusion-360-MCP-Server) | Fusion 360 MCP server：AI 控制 Fusion 360 | [AuraFriday](https://github.com/AuraFriday) | 94 |
+| [pyrestoolbox-mcp](https://github.com/gabrielserrao/pyrestoolbox-mcp) | 油藏工程 MCP server：AI 驱动油藏计算 | [gabrielserrao](https://github.com/gabrielserrao) | 41 |
+| [stk-mcp](https://github.com/alti3/stk-mcp) | Ansys STK MCP server：数字任务工程仿真 | [alti3](https://github.com/alti3) | 28 |
+| [awesome-ai-cae](https://github.com/kimimgo/awesome-ai-cae) | 113 个 AI-ready CAE 工具精选：CFD、FEA、SPH、DEM | [kimimgo](https://github.com/kimimgo) | 25 |
 
 > 自动更新：每天 09:00 扫描 GitHub，发现新的高星工程 agent skill 自动添加到上表。
 
