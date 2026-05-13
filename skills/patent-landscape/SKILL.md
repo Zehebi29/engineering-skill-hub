@@ -241,19 +241,30 @@ curl -X POST "https://api.patentsview.org/patents/query" \
 
 ## 已知问题
 
-### Google Patents 无 API
+### Google Patents 无 API 且限流严格
 
-Google Patents 没有官方 API，只能通过 web_search 搜索。搜索结果可能不完整，需要结合其他数据源补充。
+Google Patents 没有官方 API，只能通过 xhr endpoint 搜索。**从服务器端连续请求 5-6 次后会被 Google 完全封锁**（返回 "Sorry..." 页面），需要等待较长时间才能恢复。
 
-### EPO OPS 需要注册
+**应对策略**：
+- 单次分析最多搜 3-4 个关键词，避免触发限流
+- 如果被限流，切换到 EPO OPS（需免费注册）
+- 最佳方案：在用户本地浏览器中通过 web_search 搜索，避免服务器 IP 被封
 
-EPO OPS 需要免费注册获取 API key。如果用户没有 key，只用 Google Patents + USPTO 即可。
+### 所有专利 API 都有反爬限制
 
-### 专利数据不完整
+从服务器 IP（云服务器）批量访问以下服务都会被 Cloudflare/Google 拦截：
+- Google Patents (xhr endpoint) — 5-6次后封IP
+- Lens.org — Cloudflare 验证
+- WIPO PATENTSCOPE — 403 Forbidden
+- Espacenet — 需要浏览器 JS 渲染
+- USPTO PatentsView — 已迁移到新平台，API 不稳定
 
-- 专利公开有延迟（通常 18 个月），最近 1.5 年的数据不完整
-- 部分专利可能未被 Google Patents 收录
-- 中国专利在 Google Patents 上的覆盖不如 CNIPA（国家知识产权局）完整
+**根本原因**：专利数据库对云服务器 IP 的反爬比学术数据库严格得多。
+
+**建议**：
+1. 优先用 EPO OPS（有正式 API，免费注册，有 rate limit 但不会封 IP）
+2. 单次分析控制搜索次数（3-5个关键词组合）
+3. 如果需要大量数据，建议用户在本地浏览器中搜索后导出
 
 ### IPC 分类需要专业知识
 
