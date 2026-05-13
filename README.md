@@ -26,6 +26,7 @@
 | Skill | 描述 | 标签 | 兼容 |
 |-------|------|------|------|
 | [engineering-lit-review](skills/engineering-lit-review/SKILL.md) | 工程领域文献综述自动化：多数据库检索、三级去重、BibTeX 输出 | `research` `literature-review` `academic` | Hermes / OpenClaw |
+| [engineering-paper-digest](skills/engineering-paper-digest/SKILL.md) | 工程论文速读：URL/DOI/标题 -> 结构化中文摘要（方法、结果、局限性） | `research` `paper-reading` `digest` | Hermes / OpenClaw |
 
 持续更新中。欢迎 [贡献新 skill](CONTRIBUTING.md)。
 
