@@ -28,6 +28,7 @@
 | [engineering-lit-review](skills/engineering-lit-review/SKILL.md) | 工程领域文献综述自动化：多数据库检索、三级去重、BibTeX 输出 | `research` `literature-review` `academic` | Hermes / OpenClaw |
 | [engineering-paper-digest](skills/engineering-paper-digest/SKILL.md) | 工程论文速读：URL/DOI/标题 -> 结构化中文摘要（方法、结果、局限性） | `research` `paper-reading` `digest` | Hermes / OpenClaw |
 | [patent-landscape](skills/patent-landscape/SKILL.md) | 工程领域专利态势分析：技术趋势、主要申请人、技术分类、代表性专利、空白点 | `research` `patent` `innovation` | Hermes / OpenClaw |
+| [freecad-mcp](skills/freecad-mcp/SKILL.md) | FreeCAD MCP server: AI 驱动 3D CAD 建模、参数化设计、FEM 有限元分析 | `cad` `3d-modeling` `fem` `mcp` | Hermes / OpenClaw |
 
 持续更新中。欢迎 [贡献新 skill](CONTRIBUTING.md)。
 
