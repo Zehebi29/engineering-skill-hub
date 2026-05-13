@@ -1,6 +1,6 @@
 ---
 name: "patent-landscape"
-description: "工程领域专利态势分析：输入技术方向关键词，输出专利趋势、主要申请人、技术分类、代表性专利、技术空白点。基于 Google Patents + EPO OPS + USPTO 多源检索。"
+description: "工程领域专利态势分析框架：提供搜索策略、分析维度和报告模板。输入技术方向关键词，引导用户完成趋势分析、主要申请人排名、技术分类、代表性专利筛选和技术空白点识别。需用户配合在本地浏览器搜索专利数据。"
 author: "Zehebi29"
 tags: [research, patent, engineering, landscape, ip, innovation]
 version: "1.0.0"
