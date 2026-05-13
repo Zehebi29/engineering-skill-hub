@@ -1,4 +1,6 @@
-# Engineering Skill Hub
+<p align="center">
+  <img src="docs/logo.svg" alt="Engineering Skill Hub" width="480">
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Engineering-Skills-blue?style=for-the-badge" alt="Engineering">

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 120">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a1a2e;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#16213e;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0f3460;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#533483;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="480" height="120" rx="8" fill="url(#bg)"/>
+  <rect x="20" y="35" width="4" height="50" rx="2" fill="#e94560"/>
+  <rect x="28" y="42" width="4" height="43" rx="2" fill="#e94560" opacity="0.7"/>
+  <rect x="36" y="50" width="4" height="35" rx="2" fill="#e94560" opacity="0.5"/>
+  <text x="55" y="58" font-family="monospace" font-size="28" font-weight="bold" fill="#eaeaea">Engineering</text>
+  <text x="55" y="88" font-family="monospace" font-size="20" fill="#a0a0a0">Skill Hub</text>
+  <rect x="340" y="45" width="120" height="30" rx="15" fill="url(#accent)"/>
+  <text x="365" y="66" font-family="monospace" font-size="13" fill="#eaeaea">AI Agent Skills</text>
+</svg>
