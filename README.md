@@ -53,6 +53,15 @@
 | [pyrestoolbox-mcp](https://github.com/gabrielserrao/pyrestoolbox-mcp) | 油藏工程 MCP server：AI 驱动油藏计算 | [gabrielserrao](https://github.com/gabrielserrao) | 41 |
 | [stk-mcp](https://github.com/alti3/stk-mcp) | Ansys STK MCP server：数字任务工程仿真 | [alti3](https://github.com/alti3) | 28 |
 | [awesome-ai-cae](https://github.com/kimimgo/awesome-ai-cae) | 113 个 AI-ready CAE 工具精选：CFD、FEA、SPH、DEM | [kimimgo](https://github.com/kimimgo) | 25 |
+| [ros-mcp-server](https://github.com/robotmcp/ros-mcp-server) | ROS MCP server：连接 LLM 与机器人，支持 ROS 1/2 | [robotmcp](https://github.com/robotmcp) | 1219 |
+| [kicad-mcp](https://github.com/lamaalrajih/kicad-mcp) | KiCad MCP server：跨平台 PCB 设计自然语言交互 | [lamaalrajih](https://github.com/lamaalrajih) | 448 |
+| [CAD-MCP](https://github.com/daobataotie/CAD-MCP) | CAD MCP server：AI 驱动 CAD 绘图操作 | [daobataotie](https://github.com/daobataotie) | 333 |
+| [Easy-MCP-AutoCad](https://github.com/zh19980811/Easy-MCP-AutoCad) | AutoCAD MCP server：自然语言操控 AutoCAD | [zh19980811](https://github.com/zh19980811) | 158 |
+| [jarvis-onshape-mcp](https://github.com/ReshefElisha/jarvis-onshape-mcp) | Onshape MCP server：Claude Code 驱动云 CAD 建模 | [ReshefElisha](https://github.com/ReshefElisha) | 114 |
+| [openfoam-mcp-server](https://github.com/webworn/openfoam-mcp-server) | OpenFOAM MCP server：LLM 驱动 CFD 流体仿真教学 | [webworn](https://github.com/webworn) | 94 |
+| [MCP4EDA](https://github.com/NellyW8/MCP4EDA) | EDA MCP server：LLM 驱动 EDA 工具链（论文配套） | [NellyW8](https://github.com/NellyW8) | 87 |
+| [ros2_mcp](https://github.com/wise-vision/ros2_mcp) | ROS 2 MCP server：AI agent 直连机器人系统 | [wise-vision](https://github.com/wise-vision) | 77 |
+| [nav2_mcp_server](https://github.com/ajtudela/nav2_mcp_server) | ROS 2 Nav2 MCP server：AI 控制导航栈 | [ajtudela](https://github.com/ajtudela) | 73 |
 
 > 自动更新：每天 09:00 扫描 GitHub，发现新的高星工程 agent skill 自动添加到上表。
 
