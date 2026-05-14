@@ -48,6 +48,7 @@
 | [freecad-mcp](https://github.com/neka-nat/freecad-mcp) | FreeCAD MCP server：AI 驱动参数化 CAD 建模 | [neka-nat](https://github.com/neka-nat) | 933 |
 | [freecad-ai](https://github.com/ghbalf/freecad-ai) | FreeCAD AI 工作台：自然语言生成 3D 模型 | [ghbalf](https://github.com/ghbalf) | 217 |
 | [freecad_mcp](https://github.com/bonninr/freecad_mcp) | FreeCAD MCP：连接 Claude/Cursor，参数化设计 | [bonninr](https://github.com/bonninr) | 182 |
+| [kicad-mcp-pro](https://github.com/oaslananka/kicad-mcp-pro) | KiCad MCP server：PCB 和原理图自动化，DFM/SI/PI 辅助 | [oaslananka](https://github.com/oaslananka) | 120 |
 | [Fusion-360-MCP-Server](https://github.com/AuraFriday/Fusion-360-MCP-Server) | Fusion 360 MCP server：AI 控制 Fusion 360 | [AuraFriday](https://github.com/AuraFriday) | 94 |
 | [pyrestoolbox-mcp](https://github.com/gabrielserrao/pyrestoolbox-mcp) | 油藏工程 MCP server：AI 驱动油藏计算 | [gabrielserrao](https://github.com/gabrielserrao) | 41 |
 | [stk-mcp](https://github.com/alti3/stk-mcp) | Ansys STK MCP server：数字任务工程仿真 | [alti3](https://github.com/alti3) | 28 |
