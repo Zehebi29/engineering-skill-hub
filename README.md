@@ -37,7 +37,7 @@
 
 | Skill                                                     | 描述                                                   | 来源                                          | Star |
 | --------------------------------------------------------- | ------------------------------------------------------ | --------------------------------------------- | ---- |
-| [text-to-cad](https://github.com/earthtojake/text-to-cad) | Agent skills 合集：CAD、机器人、硬件设计的自然语言驱动 | [earthtojake](https://github.com/earthtojake) | 2498 |
+| [text-to-cad](https://github.com/earthtojake/text-to-cad) | Agent skills 合集：CAD、机器人、硬件设计的自然语言驱动 | [earthtojake](https://github.com/earthtojake) | 2754 |
 
 ### 社区精选 MCP Servers
 
@@ -47,11 +47,11 @@
 
 | MCP Server                                                                   | 描述                                            | 来源                                            | Star |
 | ---------------------------------------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ---- |
-| [freecad-mcp](https://github.com/neka-nat/freecad-mcp)                       | FreeCAD MCP server：AI 驱动参数化 CAD 建模      | [neka-nat](https://github.com/neka-nat)         | 933  |
-| [CAD-MCP](https://github.com/daobataotie/CAD-MCP)                            | CAD MCP server：AI 驱动 CAD 绘图操作            | [daobataotie](https://github.com/daobataotie)   | 333  |
-| [freecad-ai](https://github.com/ghbalf/freecad-ai)                           | FreeCAD AI 工作台：自然语言生成 3D 模型         | [ghbalf](https://github.com/ghbalf)             | 217  |
+| [freecad-mcp](https://github.com/neka-nat/freecad-mcp)                       | FreeCAD MCP server：AI 驱动参数化 CAD 建模      | [neka-nat](https://github.com/neka-nat)         | 942  |
+| [CAD-MCP](https://github.com/daobataotie/CAD-MCP)                            | CAD MCP server：AI 驱动 CAD 绘图操作            | [daobataotie](https://github.com/daobataotie)   | 334  |
+| [freecad-ai](https://github.com/ghbalf/freecad-ai)                           | FreeCAD AI 工作台：自然语言生成 3D 模型         | [ghbalf](https://github.com/ghbalf)             | 219  |
 | [freecad_mcp](https://github.com/bonninr/freecad_mcp)                        | FreeCAD MCP：连接 Claude/Cursor，参数化设计     | [bonninr](https://github.com/bonninr)           | 182  |
-| [Easy-MCP-AutoCad](https://github.com/zh19980811/Easy-MCP-AutoCad)           | AutoCAD MCP server：自然语言操控 AutoCAD        | [zh19980811](https://github.com/zh19980811)     | 158  |
+| [Easy-MCP-AutoCad](https://github.com/zh19980811/Easy-MCP-AutoCad)           | AutoCAD MCP server：自然语言操控 AutoCAD        | [zh19980811](https://github.com/zh19980811)     | 159  |
 | [jarvis-onshape-mcp](https://github.com/ReshefElisha/jarvis-onshape-mcp)     | Onshape MCP server：Claude Code 驱动云 CAD 建模 | [ReshefElisha](https://github.com/ReshefElisha) | 114  |
 | [Fusion-360-MCP-Server](https://github.com/AuraFriday/Fusion-360-MCP-Server) | Fusion 360 MCP server：AI 控制 Fusion 360       | [AuraFriday](https://github.com/AuraFriday)     | 94   |
 
@@ -59,15 +59,15 @@
 
 | MCP Server                                                   | 描述                                                 | 来源                                          | Star |
 | ------------------------------------------------------------ | ---------------------------------------------------- | --------------------------------------------- | ---- |
-| [kicad-mcp](https://github.com/lamaalrajih/kicad-mcp)        | KiCad MCP server：跨平台 PCB 设计自然语言交互        | [lamaalrajih](https://github.com/lamaalrajih) | 448  |
-| [kicad-mcp-pro](https://github.com/oaslananka/kicad-mcp-pro) | KiCad MCP server：PCB 和原理图自动化，DFM/SI/PI 辅助 | [oaslananka](https://github.com/oaslananka)   | 120  |
-| [MCP4EDA](https://github.com/NellyW8/MCP4EDA)                | EDA MCP server：LLM 驱动 EDA 工具链（论文配套）      | [NellyW8](https://github.com/NellyW8)         | 87   |
+| [kicad-mcp](https://github.com/lamaalrajih/kicad-mcp)        | KiCad MCP server：跨平台 PCB 设计自然语言交互        | [lamaalrajih](https://github.com/lamaalrajih) | 451  |
+| [kicad-mcp-pro](https://github.com/oaslananka/kicad-mcp-pro) | KiCad MCP server：PCB 和原理图自动化，DFM/SI/PI 辅助 | [oaslananka](https://github.com/oaslananka)   | 125  |
+| [MCP4EDA](https://github.com/NellyW8/MCP4EDA)                | EDA MCP server：LLM 驱动 EDA 工具链（论文配套）      | [NellyW8](https://github.com/NellyW8)         | 88   |
 
 #### 机器人
 
 | MCP Server                                                     | 描述                                            | 来源                                          | Star |
 | -------------------------------------------------------------- | ----------------------------------------------- | --------------------------------------------- | ---- |
-| [ros-mcp-server](https://github.com/robotmcp/ros-mcp-server)   | ROS MCP server：连接 LLM 与机器人，支持 ROS 1/2 | [robotmcp](https://github.com/robotmcp)       | 1219 |
+| [ros-mcp-server](https://github.com/robotmcp/ros-mcp-server)   | ROS MCP server：连接 LLM 与机器人，支持 ROS 1/2 | [robotmcp](https://github.com/robotmcp)       | 1220 |
 | [ros2_mcp](https://github.com/wise-vision/ros2_mcp)            | ROS 2 MCP server：AI agent 直连机器人系统       | [wise-vision](https://github.com/wise-vision) | 77   |
 | [nav2_mcp_server](https://github.com/ajtudela/nav2_mcp_server) | ROS 2 Nav2 MCP server：AI 控制导航栈            | [ajtudela](https://github.com/ajtudela)       | 73   |
 
@@ -75,7 +75,7 @@
 
 | MCP Server                                                            | 描述                                           | 来源                                  | Star |
 | --------------------------------------------------------------------- | ---------------------------------------------- | ------------------------------------- | ---- |
-| [openfoam-mcp-server](https://github.com/webworn/openfoam-mcp-server) | OpenFOAM MCP server：LLM 驱动 CFD 流体仿真教学 | [webworn](https://github.com/webworn) | 94   |
+| [openfoam-mcp-server](https://github.com/webworn/openfoam-mcp-server) | OpenFOAM MCP server：LLM 驱动 CFD 流体仿真教学 | [webworn](https://github.com/webworn) | 95   |
 | [stk-mcp](https://github.com/alti3/stk-mcp)                           | Ansys STK MCP server：数字任务工程仿真         | [alti3](https://github.com/alti3)     | 28   |
 
 #### 油藏 / 石油
@@ -103,13 +103,13 @@
 
 | MCP Server                                                | 描述                                                                     | 来源                                          | Star |
 | --------------------------------------------------------- | ------------------------------------------------------------------------ | --------------------------------------------- | ---- |
-| [autocad-mcp](https://github.com/puran-water/autocad-mcp) | AutoCAD MCP server：面向水处理工程的 P&ID 图纸自动化，支持 AutoLISP 执行 | [puran-water](https://github.com/puran-water) | 247  |
+| [autocad-mcp](https://github.com/puran-water/autocad-mcp) | AutoCAD MCP server：面向水处理工程的 P&ID 图纸自动化，支持 AutoLISP 执行 | [puran-water](https://github.com/puran-water) | 249  |
 
 #### 综合资源
 
 | MCP Server                                                  | 描述                                             | 来源                                  | Star |
 | ----------------------------------------------------------- | ------------------------------------------------ | ------------------------------------- | ---- |
-| [awesome-ai-cae](https://github.com/kimimgo/awesome-ai-cae) | 113 个 AI-ready CAE 工具精选：CFD、FEA、SPH、DEM | [kimimgo](https://github.com/kimimgo) | 25   |
+| [awesome-ai-cae](https://github.com/kimimgo/awesome-ai-cae) | 113 个 AI-ready CAE 工具精选：CFD、FEA、SPH、DEM | [kimimgo](https://github.com/kimimgo) | 26   |
 
 > 自动更新：每天 09:00 扫描 GitHub，发现新的高星工程 agent skill 自动添加到上表。
 
