@@ -88,14 +88,23 @@
 
 | MCP Server                                             | 描述                                                            | 来源                                    | Star |
 | ------------------------------------------------------ | --------------------------------------------------------------- | --------------------------------------- | ---- |
+| [thingsboard-mcp](https://github.com/thingsboard/thingsboard-mcp) | ThingsBoard MCP server：连接工业 IoT 平台，设备管理、遥测数据查询 | [thingsboard](https://github.com/thingsboard) | 97   |
 | [opcua-mcp](https://github.com/kukapay/opcua-mcp)      | OPC UA MCP server：连接工业自动化系统，实时监控和控制运行数据   | [kukapay](https://github.com/kukapay)   | 26   |
 | [modbus-mcp](https://github.com/kukapay/modbus-mcp)    | Modbus MCP server：标准化工业 Modbus 数据，供 AI agent 调用     | [kukapay](https://github.com/kukapay)   | 23   |
 | [twincat-mcp](https://github.com/eponce00/twincat-mcp) | TwinCAT MCP server：连接 Beckhoff PLC，构建/部署/监控自动化项目 | [eponce00](https://github.com/eponce00) | 20   |
+
+#### 嵌入式 / 硬件
+
+| MCP Server                                                                           | 描述                                                                 | 来源                                                  | Star |
+| ------------------------------------------------------------------------------------ | -------------------------------------------------------------------- | ----------------------------------------------------- | ---- |
+| [esp-mcp](https://github.com/horw/esp-mcp)                                           | ESP32 开发 MCP server：集中管理 ESP-IDF 命令，简化嵌入式开发入门     | [horw](https://github.com/horw)                       | 148  |
+| [embedded-debugger-mcp](https://github.com/Adancurusul/embedded-debugger-mcp)        | 嵌入式调试 MCP server：支持 ARM Cortex-M、RISC-V 的 probe-rs 调试    | [Adancurusul](https://github.com/Adancurusul)         | 85   |
 
 #### 生物医学 / 医疗
 
 | MCP Server                                                                  | 描述                                                                        | 来源                                        | Star |
 | --------------------------------------------------------------------------- | --------------------------------------------------------------------------- | ------------------------------------------- | ---- |
+| [biomcp](https://github.com/genomoncology/biomcp)                           | BioMCP：单查询多源生物医学数据搜索（PubMed、临床试验、变异信息、本地分析）  | [genomoncology](https://github.com/genomoncology) | 507  |
 | [mcp-simple-pubmed](https://github.com/andybrandt/mcp-simple-pubmed)        | PubMed MCP server：搜索和查询医学文献数据库                                 | [andybrandt](https://github.com/andybrandt) | 165  |
 | [healthcare-mcp-public](https://github.com/Cicatriiz/healthcare-mcp-public) | Healthcare MCP server：访问 FDA、PubMed、临床试验、ICD-10、DICOM 等医疗数据 | [Cicatriiz](https://github.com/Cicatriiz)   | 115  |
 
