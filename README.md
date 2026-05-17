@@ -78,6 +78,13 @@
 | [openfoam-mcp-server](https://github.com/webworn/openfoam-mcp-server) | OpenFOAM MCP server：LLM 驱动 CFD 流体仿真教学 | [webworn](https://github.com/webworn) | 95   |
 | [stk-mcp](https://github.com/alti3/stk-mcp)                           | Ansys STK MCP server：数字任务工程仿真         | [alti3](https://github.com/alti3)     | 28   |
 
+#### 能源 / 电力 / 电池
+
+| MCP Server                                                              | 描述                                                          | 来源                                              | Star |
+| ----------------------------------------------------------------------- | ------------------------------------------------------------- | ------------------------------------------------- | ---- |
+| [PowerMCP](https://github.com/Power-Agent/PowerMCP)                     | 电力系统 MCP 服务器集合：PowerWorld、PSSE、OpenDSS 等仿真工具 | [Power-Agent](https://github.com/Power-Agent)     | 139  |
+| [EnergyPlus-MCP](https://github.com/LBNL-ETA/EnergyPlus-MCP)           | EnergyPlus 建筑能耗模拟 MCP，LBNL 官方项目                    | [LBNL-ETA](https://github.com/LBNL-ETA)           | 90   |
+
 #### 油藏 / 石油
 
 | MCP Server                                                            | 描述                                 | 来源                                              | Star |
@@ -99,6 +106,12 @@
 | ------------------------------------------------------------------------------------ | -------------------------------------------------------------------- | ----------------------------------------------------- | ---- |
 | [esp-mcp](https://github.com/horw/esp-mcp)                                           | ESP32 开发 MCP server：集中管理 ESP-IDF 命令，简化嵌入式开发入门     | [horw](https://github.com/horw)                       | 148  |
 | [embedded-debugger-mcp](https://github.com/Adancurusul/embedded-debugger-mcp)        | 嵌入式调试 MCP server：支持 ARM Cortex-M、RISC-V 的 probe-rs 调试    | [Adancurusul](https://github.com/Adancurusul)         | 85   |
+
+#### 半导体 / VLSI / FPGA
+
+| MCP Server                                                                            | 描述                                                    | 来源                                                        | Star |
+| ------------------------------------------------------------------------------------- | ------------------------------------------------------- | ----------------------------------------------------------- | ---- |
+| [vivado-mcp](https://github.com/mapleleavessssssss-wq/vivado-mcp)                     | Vivado MCP Server：AI 驱动 FPGA 开发，CRITICAL WARNING 诊断 | [mapleleavessssssss-wq](https://github.com/mapleleavessssssss-wq) | 41   |
 
 #### 生物医学 / 医疗
 
