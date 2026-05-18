@@ -37,7 +37,10 @@
 
 | Skill                                                     | 描述                                                   | 来源                                          | Star |
 | --------------------------------------------------------- | ------------------------------------------------------ | --------------------------------------------- | ---- |
-| [text-to-cad](https://github.com/earthtojake/text-to-cad) | Agent skills 合集：CAD、机器人、硬件设计的自然语言驱动 | [earthtojake](https://github.com/earthtojake) | 2962 |
+| [kicad-happy](https://github.com/aklofas/kicad-happy)           | AI 编码 agent 技能集：KiCad 原理图分析、PCB 审查、电路设计自动化                     | [aklofas](https://github.com/aklofas)         | 339  |
+| [NextBoard](https://github.com/LeoKemp223/NextBoard)           | 硬件 PCB 方案设计的 AI Agent：需求确认、器件选型、BOM 输出、原理图生成               | [LeoKemp223](https://github.com/LeoKemp223)   | 161  |
+| [text-to-cad](https://github.com/earthtojake/text-to-cad) | Agent skills 合集：CAD、机器人、硬件设计的自然语言驱动 | [earthtojake](https://github.com/earthtojake) | 2754 |
+ (feat: add 10 engineering entries (mon daily scan - CAD/PCB))
 
 ### 社区精选 MCP Servers
 
@@ -47,21 +50,30 @@
 
 | MCP Server                                                                   | 描述                                            | 来源                                            | Star |
 | ---------------------------------------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ---- |
-| [freecad-mcp](https://github.com/neka-nat/freecad-mcp)                       | FreeCAD MCP server：AI 驱动参数化 CAD 建模      | [neka-nat](https://github.com/neka-nat)         | 958  |
-| [CAD-MCP](https://github.com/daobataotie/CAD-MCP)                            | CAD MCP server：AI 驱动 CAD 绘图操作            | [daobataotie](https://github.com/daobataotie)   | 344  |
-| [freecad-ai](https://github.com/ghbalf/freecad-ai)                           | FreeCAD AI 工作台：自然语言生成 3D 模型         | [ghbalf](https://github.com/ghbalf)             | 229  |
-| [freecad_mcp](https://github.com/bonninr/freecad_mcp)                        | FreeCAD MCP：连接 Claude/Cursor，参数化设计     | [bonninr](https://github.com/bonninr)           | 183  |
-| [Easy-MCP-AutoCad](https://github.com/zh19980811/Easy-MCP-AutoCad)           | AutoCAD MCP server：自然语言操控 AutoCAD        | [zh19980811](https://github.com/zh19980811)     | 161  |
-| [jarvis-onshape-mcp](https://github.com/ReshefElisha/jarvis-onshape-mcp)     | Onshape MCP server：Claude Code 驱动云 CAD 建模 | [ReshefElisha](https://github.com/ReshefElisha) | 117  |
-| [Fusion-360-MCP-Server](https://github.com/AuraFriday/Fusion-360-MCP-Server) | Fusion 360 MCP server：AI 控制 Fusion 360       | [AuraFriday](https://github.com/AuraFriday)     | 94   |
+| [freecad-mcp](https://github.com/neka-nat/freecad-mcp)                               | FreeCAD MCP server：AI 驱动参数化 CAD 建模           | [neka-nat](https://github.com/neka-nat)                 | 942  |
+| [CAD-MCP](https://github.com/daobataotie/CAD-MCP)                                        | CAD MCP server：AI 驱动 CAD 绘图操作                 | [daobataotie](https://github.com/daobataotie)           | 334  |
+| [freecad-ai](https://github.com/ghbalf/freecad-ai)                                       | FreeCAD AI 工作台：自然语言生成 3D 模型              | [ghbalf](https://github.com/ghbalf)                     | 219  |
+| [freecad_mcp](https://github.com/bonninr/freecad_mcp)                                    | FreeCAD MCP：连接 Claude/Cursor，参数化设计          | [bonninr](https://github.com/bonninr)                   | 182  |
+| [Easy-MCP-AutoCad](https://github.com/zh19980811/Easy-MCP-AutoCad)                       | AutoCAD MCP server：自然语言操控 AutoCAD             | [zh19980811](https://github.com/zh19980811)             | 159  |
+| [SolidworksMCP-TS](https://github.com/vespo92/SolidworksMCP-TS)                          | SolidWorks MCP：TypeScript 实现，COM 互操参数化建模  | [vespo92](https://github.com/vespo92)                   | 130  |
+| [jarvis-onshape-mcp](https://github.com/ReshefElisha/jarvis-onshape-mcp)                 | Onshape MCP server：Claude Code 驱动云 CAD 建模      | [ReshefElisha](https://github.com/ReshefElisha)         | 114  |
+| [Fusion-360-MCP-Server](https://github.com/AuraFriday/Fusion-360-MCP-Server)             | Fusion 360 MCP server：AI 控制 Fusion 360            | [AuraFriday](https://github.com/AuraFriday)             | 94   |
+| [freecad-addon-robust-mcp-server](https://github.com/spkane/freecad-addon-robust-mcp-server) | FreeCAD Robust MCP server：企业级 CAD 自动化，47 项工具+资源 | [spkane](https://github.com/spkane)                     | 85   |
+ (feat: add 10 engineering entries (mon daily scan - CAD/PCB))
 
 #### 电气 / PCB / EDA
 
 | MCP Server                                                   | 描述                                                 | 来源                                          | Star |
 | ------------------------------------------------------------ | ---------------------------------------------------- | --------------------------------------------- | ---- |
-| [kicad-mcp](https://github.com/lamaalrajih/kicad-mcp)        | KiCad MCP server：跨平台 PCB 设计自然语言交互        | [lamaalrajih](https://github.com/lamaalrajih) | 453  |
-| [kicad-mcp-pro](https://github.com/oaslananka/kicad-mcp-pro) | KiCad MCP server：PCB 和原理图自动化，DFM/SI/PI 辅助 | [oaslananka](https://github.com/oaslananka)   | 125  |
-| [MCP4EDA](https://github.com/NellyW8/MCP4EDA)                | EDA MCP server：LLM 驱动 EDA 工具链（论文配套）      | [NellyW8](https://github.com/NellyW8)         | 89   |
+| [KiCAD-MCP-Server](https://github.com/mixelpixx/KiCAD-MCP-Server) | KiCAD MCP server：122 项工具，16 类 PCB 自动化（原理图、布局、DFM、Gerber） | [mixelpixx](https://github.com/mixelpixx)   | 1022 |
+| [kicad-mcp](https://github.com/lamaalrajih/kicad-mcp)                | KiCad MCP server：跨平台 PCB 设计自然语言交互                               | [lamaalrajih](https://github.com/lamaalrajih) | 451  |
+| [kicad-mcp-pro](https://github.com/oaslananka/kicad-mcp-pro)         | KiCad MCP server：PCB 和原理图自动化，DFM/SI/PI 辅助                        | [oaslananka](https://github.com/oaslananka)   | 125  |
+| [MCP4EDA](https://github.com/NellyW8/MCP4EDA)                       | EDA MCP server：LLM 驱动 EDA 工具链（论文配套）                             | [NellyW8](https://github.com/NellyW8)         | 88   |
+| [altium-mcp](https://github.com/coffeenmusic/altium-mcp)             | Altium Designer MCP server：原理图、PCB、库管理自然语言操控                 | [coffeenmusic](https://github.com/coffeenmusic) | 78   |
+| [pcbparts-mcp](https://github.com/Averyy/pcbparts-mcp)               | 电子元器件搜索 MCP server：JLCPCB/Mouser/DigiKey 1.5M+ 器件库               | [Averyy](https://github.com/Averyy)           | 59   |
+| [jlcmcp](https://github.com/hyl64/jlcmcp)                            | 嘉立创 EDA MCP server：39 个 PCB 自动化工具，直接操控 JLC EDA               | [hyl64](https://github.com/hyl64)             | 51   |
+| [JLCEDA-MCP](https://github.com/sengbin/JLCEDA-MCP)                  | 嘉立创 EDA MCP：VS Code 插件+WebSocket 桥，原理图读写审查                  | [sengbin](https://github.com/sengbin)         | 22   |
+ (feat: add 10 engineering entries (mon daily scan - CAD/PCB))
 
 #### 机器人
 
