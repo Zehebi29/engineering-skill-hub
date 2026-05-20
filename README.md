@@ -90,6 +90,13 @@
 | [openfoam-mcp-server](https://github.com/webworn/openfoam-mcp-server) | OpenFOAM MCP server：LLM 驱动 CFD 流体仿真教学 | [webworn](https://github.com/webworn) | 97   |
 | [stk-mcp](https://github.com/alti3/stk-mcp)                           | Ansys STK MCP server：数字任务工程仿真         | [alti3](https://github.com/alti3)     | 28   |
 
+#### 土木 / 结构 / BIM
+
+| MCP Server                                                                         | 描述                                                                           | 来源                                                        | Star |
+| ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ | ----------------------------------------------------------- | ---- |
+| [mcp-servers-for-revit](https://github.com/mcp-servers-for-revit/mcp-servers-for-revit) | Revit MCP server（TypeScript）：26+ 工具，AI 驱动 Revit 建模自动化，支持 Revit 2020-2026 | [mcp-servers-for-revit](https://github.com/mcp-servers-for-revit) | 170 |
+| [mcp-server-for-revit-python](https://github.com/mcp-servers-for-revit/mcp-server-for-revit-python) | Revit MCP server（Python/pyRevit）：pyRevit Routes REST API 桥接 Revit 与 AI agent，18 个工具 | [mcp-servers-for-revit](https://github.com/mcp-servers-for-revit) | 120 |
+
 #### 能源 / 电力 / 电池
 
 | MCP Server                                                              | 描述                                                          | 来源                                              | Star |
