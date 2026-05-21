@@ -40,7 +40,7 @@
 | [kicad-happy](https://github.com/aklofas/kicad-happy)           | AI 编码 agent 技能集：KiCad 原理图分析、PCB 审查、电路设计自动化                     | [aklofas](https://github.com/aklofas)         | 339  |
 | [NextBoard](https://github.com/LeoKemp223/NextBoard)           | 硬件 PCB 方案设计的 AI Agent：需求确认、器件选型、BOM 输出、原理图生成               | [LeoKemp223](https://github.com/LeoKemp223)   | 161  |
 | [text-to-cad](https://github.com/earthtojake/text-to-cad) | Agent skills 合集：CAD、机器人、硬件设计的自然语言驱动 | [earthtojake](https://github.com/earthtojake) | 2754 |
- (feat: add 10 engineering entries (mon daily scan - CAD/PCB))
+| [geoscience-skills](https://github.com/SteadfastAsArt/geoscience-skills) | 30 个 AI-powered 地学技能集合：地震、测井、3D 建模、反演、地统计学、空间回归、NetCDF | [SteadfastAsArt](https://github.com/SteadfastAsArt) | 26 |
 
 ### 社区精选 MCP Servers
 
@@ -59,7 +59,7 @@
 | [jarvis-onshape-mcp](https://github.com/ReshefElisha/jarvis-onshape-mcp)                 | Onshape MCP server：Claude Code 驱动云 CAD 建模      | [ReshefElisha](https://github.com/ReshefElisha)         | 114  |
 | [Fusion-360-MCP-Server](https://github.com/AuraFriday/Fusion-360-MCP-Server)             | Fusion 360 MCP server：AI 控制 Fusion 360            | [AuraFriday](https://github.com/AuraFriday)             | 94   |
 | [freecad-addon-robust-mcp-server](https://github.com/spkane/freecad-addon-robust-mcp-server) | FreeCAD Robust MCP server：企业级 CAD 自动化，47 项工具+资源 | [spkane](https://github.com/spkane)                     | 85   |
- (feat: add 10 engineering entries (mon daily scan - CAD/PCB))
+ 
 
 #### 电气 / PCB / EDA
 
@@ -73,7 +73,7 @@
 | [pcbparts-mcp](https://github.com/Averyy/pcbparts-mcp)               | 电子元器件搜索 MCP server：JLCPCB/Mouser/DigiKey 1.5M+ 器件库               | [Averyy](https://github.com/Averyy)           | 59   |
 | [jlcmcp](https://github.com/hyl64/jlcmcp)                            | 嘉立创 EDA MCP server：39 个 PCB 自动化工具，直接操控 JLC EDA               | [hyl64](https://github.com/hyl64)             | 51   |
 | [JLCEDA-MCP](https://github.com/sengbin/JLCEDA-MCP)                  | 嘉立创 EDA MCP：VS Code 插件+WebSocket 桥，原理图读写审查                  | [sengbin](https://github.com/sengbin)         | 22   |
- (feat: add 10 engineering entries (mon daily scan - CAD/PCB))
+ 
 
 #### 机器人
 
