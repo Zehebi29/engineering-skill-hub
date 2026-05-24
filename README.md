@@ -140,6 +140,8 @@
 | [biomcp](https://github.com/genomoncology/biomcp)                           | BioMCP：单查询多源生物医学数据搜索（PubMed、临床试验、变异信息、本地分析）  | [genomoncology](https://github.com/genomoncology) | 507  |
 | [mcp-simple-pubmed](https://github.com/andybrandt/mcp-simple-pubmed)        | PubMed MCP server：搜索和查询医学文献数据库                                 | [andybrandt](https://github.com/andybrandt) | 166  |
 | [healthcare-mcp-public](https://github.com/Cicatriiz/healthcare-mcp-public) | Healthcare MCP server：访问 FDA、PubMed、临床试验、ICD-10、DICOM 等医疗数据 | [Cicatriiz](https://github.com/Cicatriiz)   | 115  |
+| [clinicaltrialsgov-mcp-server](https://github.com/cyanheads/clinicaltrialsgov-mcp-server) | ClinicalTrials.gov MCP server：577K 试验搜索、高级字段过滤、患者匹配、研究详情详解 | [cyanheads](https://github.com/cyanheads)   | 75   |
+| [m3](https://github.com/rafiattrach/m3)                                     | MIMIC-IV 医疗数据 MCP server：自然语言查询重症监护数据库（DuckDB/BigQuery）      | [rafiattrach](https://github.com/rafiattrach) | 71   |
 
 #### 环境 / 水利
 
