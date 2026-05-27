@@ -41,6 +41,7 @@
 | [NextBoard](https://github.com/LeoKemp223/NextBoard)                     | 硬件 PCB 方案设计的 AI Agent：需求确认、器件选型、BOM 输出、原理图生成               | [LeoKemp223](https://github.com/LeoKemp223)         | 185  |
 | [text-to-cad](https://github.com/earthtojake/text-to-cad)                | Agent skills 合集：CAD、机器人、硬件设计的自然语言驱动                               | [earthtojake](https://github.com/earthtojake)       | 4584 |
 | [geoscience-skills](https://github.com/SteadfastAsArt/geoscience-skills) | 30 个 AI-powered 地学技能集合：地震、测井、3D 建模、反演、地统计学、空间回归、NetCDF | [SteadfastAsArt](https://github.com/SteadfastAsArt) | 26   |
+| [DDC-Skills-for-AI-Agents-in-Construction](https://github.com/datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction) | 221 个建筑行业 AI 技能：BIM 分析、成本估算、进度管理、文档控制、自动化工作流         | [datadrivenconstruction](https://github.com/datadrivenconstruction) | 149  |
 
 ### 社区精选 MCP Servers
 
@@ -102,6 +103,7 @@
 | --------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- | ---- |
 | [mcp-servers-for-revit](https://github.com/mcp-servers-for-revit/mcp-servers-for-revit)             | Revit MCP server（TypeScript）：26+ 工具，AI 驱动 Revit 建模自动化，支持 Revit 2020-2026      | [mcp-servers-for-revit](https://github.com/mcp-servers-for-revit) | 177  |
 | [mcp-server-for-revit-python](https://github.com/mcp-servers-for-revit/mcp-server-for-revit-python) | Revit MCP server（Python/pyRevit）：pyRevit Routes REST API 桥接 Revit 与 AI agent，18 个工具 | [mcp-servers-for-revit](https://github.com/mcp-servers-for-revit) | 121  |
+| [tekla_mcp_server](https://github.com/teknovizier/tekla_mcp_server)    | Tekla Structures MCP server：工具化建模自动化，支持选择、组件插入、属性管理、视图操作       | [teknovizier](https://github.com/teknovizier)       | 35   |
 
 #### 能源 / 电力 / 电池
 
