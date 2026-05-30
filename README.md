@@ -149,8 +149,10 @@
 | [mcp-simple-pubmed](https://github.com/andybrandt/mcp-simple-pubmed)                      | PubMed MCP server：搜索和查询医学文献数据库                                        | [andybrandt](https://github.com/andybrandt)       | 167  |
 | [healthcare-mcp-public](https://github.com/Cicatriiz/healthcare-mcp-public)               | Healthcare MCP server：访问 FDA、PubMed、临床试验、ICD-10、DICOM 等医疗数据        | [Cicatriiz](https://github.com/Cicatriiz)         | 115  |
 | [cyanheads/pubmed-mcp-server](https://github.com/cyanheads/pubmed-mcp-server)             | PubMed MCP server：PubMed/Europe PMC 搜索、全文获取（PMC/EPMC/Unpaywall）、MeSH 术语、引用查询 | [cyanheads](https://github.com/cyanheads) | 101  |
+| [JamesANZ/medical-mcp](https://github.com/JamesANZ/medical-mcp) | Medical MCP server：集成 FDA、WHO、PubMed、RxNorm、Google Scholar 等 6 大医疗数据源 | [JamesANZ](https://github.com/JamesANZ) | 93 |
 | [clinicaltrialsgov-mcp-server](https://github.com/cyanheads/clinicaltrialsgov-mcp-server) | ClinicalTrials.gov MCP server：577K 试验搜索、高级字段过滤、患者匹配、研究详情详解 | [cyanheads](https://github.com/cyanheads)         | 75   |
 | [m3](https://github.com/rafiattrach/m3)                                                   | MIMIC-IV 医疗数据 MCP server：自然语言查询重症监护数据库（DuckDB/BigQuery）        | [rafiattrach](https://github.com/rafiattrach)     | 71   |
+| [OHNLP/omop_mcp](https://github.com/OHNLP/omop_mcp) | OMOP 临床术语映射 MCP：LLM 驱动临床术语到 OMOP CDM 概念标准化（SNOMED/LOINC/RxNorm） | [OHNLP](https://github.com/OHNLP) | 35 |
 
 #### 环境 / 水利
 
@@ -162,6 +164,7 @@
 
 | MCP Server                                                  | 描述                                             | 来源                                  | Star |
 | ----------------------------------------------------------- | ------------------------------------------------ | ------------------------------------- | ---- |
+| [pfc-mcp](https://github.com/yusong652/pfc-mcp) | ITASCA PFC DEM 仿真 MCP：自然语言驱动离散元模拟，10 个工具覆盖文档浏览与代码执行 | [yusong652](https://github.com/yusong652) | 59 |
 | [awesome-ai-cae](https://github.com/kimimgo/awesome-ai-cae) | 113 个 AI-ready CAE 工具精选：CFD、FEA、SPH、DEM | [kimimgo](https://github.com/kimimgo) | 30   |
 
 > 自动更新：每天 09:00 扫描 GitHub，发现新的高星工程 agent skill 自动添加到上表。
