@@ -164,6 +164,7 @@
 
 | MCP Server                                                  | 描述                                             | 来源                                  | Star |
 | ----------------------------------------------------------- | ------------------------------------------------ | ------------------------------------- | ---- |
+| [COMSOL_Multiphysics_MCP](https://github.com/wjc9011/COMSOL_Multiphysics_MCP) | COMSOL Multiphysics MCP server：AI 驱动多物理场仿真（热传导、流体、静电、固体力学），含知识库检索 | [wjc9011](https://github.com/wjc9011) | 306 |
 | [pfc-mcp](https://github.com/yusong652/pfc-mcp) | ITASCA PFC DEM 仿真 MCP：自然语言驱动离散元模拟，10 个工具覆盖文档浏览与代码执行 | [yusong652](https://github.com/yusong652) | 59 |
 | [awesome-ai-cae](https://github.com/kimimgo/awesome-ai-cae) | 113 个 AI-ready CAE 工具精选：CFD、FEA、SPH、DEM | [kimimgo](https://github.com/kimimgo) | 30   |
 
