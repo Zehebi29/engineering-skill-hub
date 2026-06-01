@@ -74,8 +74,9 @@
 | [circuitron](https://github.com/Shaurya-Sethi/circuitron) | Agentic PCB Design Accelerator：多智能体系统，自然语言生成网表→布局→KiCad 输出，含 MCP RAG | [Shaurya-Sethi](https://github.com/Shaurya-Sethi) | 96 |
 | [MCP4EDA](https://github.com/NellyW8/MCP4EDA)                       | EDA MCP server：LLM 驱动 EDA 工具链（论文配套）                             | [NellyW8](https://github.com/NellyW8)         | 90   |
 | [altium-mcp](https://github.com/coffeenmusic/altium-mcp)             | Altium Designer MCP server：原理图、PCB、库管理自然语言操控                 | [coffeenmusic](https://github.com/coffeenmusic) | 82   |
-| [pcbparts-mcp](https://github.com/Averyy/pcbparts-mcp)               | 电子元器件搜索 MCP server：JLCPCB/Mouser/DigiKey 1.5M+ 器件库               | [Averyy](https://github.com/Averyy)           | 60   |
 | [jlcmcp](https://github.com/hyl64/jlcmcp)                            | 嘉立创 EDA MCP server：39 个 PCB 自动化工具，直接操控 JLC EDA               | [hyl64](https://github.com/hyl64)             | 65   |
+| [easyeda-copilot](https://github.com/biosshot/easyeda-copilot)        | EasyEDA MCP server：自然语言生成原理图、LCSC 元器件搜索、PCB 设计辅助        | [biosshot](https://github.com/biosshot)       | 50   |
+| [pcbparts-mcp](https://github.com/Averyy/pcbparts-mcp)               | 电子元器件搜索 MCP server：JLCPCB/Mouser/DigiKey 1.5M+ 器件库               | [Averyy](https://github.com/Averyy)           | 60   |
 | [kicad-mcp-server](https://github.com/Seeed-Studio/kicad-mcp-server) | KiCad MCP server（Seeed Studio）：KiCad 9.0+ 原理图/PCB 分析、网表追踪、DRC/ERC | [Seeed-Studio](https://github.com/Seeed-Studio) | 42 |
 | [JLCEDA-MCP](https://github.com/sengbin/JLCEDA-MCP)                  | 嘉立创 EDA MCP：VS Code 插件+WebSocket 桥，原理图读写审查                  | [sengbin](https://github.com/sengbin)         | 31   |
 | [eda-agent](https://github.com/salitronic/eda-agent) | Altium Designer MCP server：200+ 工具覆盖原理图、PCB、库管理，持久化 DelphiScript 桥接 | [salitronic](https://github.com/salitronic) | 26 |
