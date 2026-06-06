@@ -51,6 +51,7 @@
 
 | MCP Server                                                                                   | 描述                                                                  | 来源                                                | Star |
 | -------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- | --------------------------------------------------- | ---- |
+| [blender-mcp](https://github.com/ahujasid/blender-mcp)                                       | Blender MCP server：AI 驱动 3D 建模、渲染、动画，支持场景操作和脚本化 | [ahujasid](https://github.com/ahujasid)             | 22367 |
 | [freecad-mcp](https://github.com/neka-nat/freecad-mcp)                                       | FreeCAD MCP server：AI 驱动参数化 CAD 建模                            | [neka-nat](https://github.com/neka-nat)             | 1043 |
 | [CAD-MCP](https://github.com/daobataotie/CAD-MCP)                                            | CAD MCP server：AI 驱动 CAD 绘图操作                                  | [daobataotie](https://github.com/daobataotie)       | 367  |
 | [freecad-ai](https://github.com/ghbalf/freecad-ai)                                           | FreeCAD AI 工作台：自然语言生成 3D 模型                               | [ghbalf](https://github.com/ghbalf)                 | 265  |
@@ -83,6 +84,7 @@
 
 | MCP Server                                                     | 描述                                                                               | 来源                                          | Star |
 | -------------------------------------------------------------- | ---------------------------------------------------------------------------------- | --------------------------------------------- | ---- |
+| [stack-chan](https://github.com/stack-chan/stack-chan)          | Stack-chan MCP server：M5Stack 嵌入式机器人，JavaScript 驱动，MCP 自然语言控制     | [stack-chan](https://github.com/stack-chan)   | 1516 |
 | [ros-mcp-server](https://github.com/robotmcp/ros-mcp-server)   | ROS MCP server：连接 LLM 与机器人，支持 ROS 1/2                                    | [robotmcp](https://github.com/robotmcp)       | 1254 |
 | [isaac-sim-mcp](https://github.com/omni-mcp/isaac-sim-mcp)     | NVIDIA Isaac Sim MCP server：AI 驱动机器人仿真，自然语言控制 Isaac Sim/Lab/OpenUSD | [omni-mcp](https://github.com/omni-mcp)       | 172  |
 | [ros2_mcp](https://github.com/wise-vision/ros2_mcp)            | ROS 2 MCP server：AI agent 直连机器人系统                                          | [wise-vision](https://github.com/wise-vision) | 78   |
