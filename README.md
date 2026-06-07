@@ -153,6 +153,8 @@
 | [pubmed-mcp-server](https://github.com/cyanheads/pubmed-mcp-server)                      | PubMed/Europe PMC MCP server：文献搜索、全文获取、引用分析、MeSH 术语，STDIO/HTTP   | [cyanheads](https://github.com/cyanheads)         | 105  |
 | [clinicaltrialsgov-mcp-server](https://github.com/cyanheads/clinicaltrialsgov-mcp-server) | ClinicalTrials.gov MCP server：577K 试验搜索、高级字段过滤、患者匹配、研究详情详解 | [cyanheads](https://github.com/cyanheads)         | 76   |
 | [m3](https://github.com/rafiattrach/m3)                                                   | MIMIC-IV 医疗数据 MCP server：自然语言查询重症监护数据库（DuckDB/BigQuery）        | [rafiattrach](https://github.com/rafiattrach)     | 72   |
+| [ChatSpatial](https://github.com/cafferychen777/ChatSpatial)                             | 空间转录组学 MCP server：自然语言驱动的空间分析（Scanpy/Squidpy），含 bioRxiv 论文 | [cafferychen777](https://github.com/cafferychen777) | 39 |
+| [encode-toolkit](https://github.com/ammawla/encode-toolkit)                               | ENCODE 基因组学 MCP server：搜索、下载、分析功能基因组实验数据                     | [ammawla](https://github.com/ammawla)             | 36   |
 
 #### 环境 / 水利
 
