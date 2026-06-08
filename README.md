@@ -63,6 +63,7 @@
 | [freecad-addon-robust-mcp-server](https://github.com/spkane/freecad-addon-robust-mcp-server) | FreeCAD Robust MCP server：企业级 CAD 自动化，47 项工具+资源          | [spkane](https://github.com/spkane)                 | 111   |
 | [multiCAD-mcp](https://github.com/AnCode666/multiCAD-mcp)                                    | Multi-CAD MCP server：统一接口操控 AutoCAD、ZWCAD、BricsCAD、GstarCAD | [AnCode666](https://github.com/AnCode666)           | 42    |
 | [fusion360-mcp-server](https://github.com/faust-machines/fusion360-mcp-server)               | Fusion 360 MCP server：84 工具覆盖草图、特征、CAM、钣金，PyPI 部署    | [faust-machines](https://github.com/faust-machines) | 42    |
+| [SolidworksMCP-python](https://github.com/andrewbartels1/SolidworksMCP-python)              | SolidWorks MCP server：Python 实现，COM 互操参数化建模，CI/测试完备   | [andrewbartels1](https://github.com/andrewbartels1) | 22    |
 
 #### 电气 / PCB / EDA
 
