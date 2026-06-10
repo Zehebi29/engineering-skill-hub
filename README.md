@@ -108,6 +108,7 @@
 | [mcp-server-for-revit-python](https://github.com/mcp-servers-for-revit/mcp-server-for-revit-python) | Revit MCP server（Python/pyRevit）：pyRevit Routes REST API 桥接 Revit 与 AI agent，18 个工具 | [mcp-servers-for-revit](https://github.com/mcp-servers-for-revit) | 126  |
 | [RevitMCP](https://github.com/oakplank/RevitMCP)                                                    | Revit MCP server（pyRevit）：模型查询、视图控制、元素操作，pyRevit Routes 桥接                | [oakplank](https://github.com/oakplank)                           | 45   |
 | [tekla_mcp_server](https://github.com/teknovizier/tekla_mcp_server)                                 | Tekla Structures MCP server：工具化建模自动化，支持选择、组件插入、属性管理、视图操作         | [teknovizier](https://github.com/teknovizier)                     | 36   |
+| [Autodesk-Revit-MCP-Server](https://github.com/Sam-AEC/Autodesk-Revit-MCP-Server)                  | Revit MCP server（C#/.NET）：100+ 工具覆盖几何、视图、族、MEP、结构，支持 Revit 2024-2026    | [Sam-AEC](https://github.com/Sam-AEC)                             | 31   |
 
 #### 能源 / 电力 / 电池
 
@@ -143,6 +144,7 @@
 | MCP Server                                                        | 描述                                                        | 来源                                                              | Star |
 | ----------------------------------------------------------------- | ----------------------------------------------------------- | ----------------------------------------------------------------- | ---- |
 | [vivado-mcp](https://github.com/mapleleavessssssss-wq/vivado-mcp) | Vivado MCP Server：AI 驱动 FPGA 开发，CRITICAL WARNING 诊断 | [mapleleavessssssss-wq](https://github.com/mapleleavessssssss-wq) | 56   |
+| [SynthPilot](https://github.com/LNC0831/SynthPilot)                | Vivado MCP server：500+ 工具覆盖全流程 FPGA 开发，含 oh-my-fpga 方法论层，本地运行 | [LNC0831](https://github.com/LNC0831)                              | 46   |
 
 #### 生物医学 / 医疗
 
