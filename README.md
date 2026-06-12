@@ -42,6 +42,7 @@
 | [text-to-cad](https://github.com/earthtojake/text-to-cad)                                                                      | Agent skills 合集：CAD、机器人、硬件设计的自然语言驱动                               | [earthtojake](https://github.com/earthtojake)                       | 5770 |
 | [geoscience-skills](https://github.com/SteadfastAsArt/geoscience-skills)                                                       | 30 个 AI-powered 地学技能集合：地震、测井、3D 建模、反演、地统计学、空间回归、NetCDF | [SteadfastAsArt](https://github.com/SteadfastAsArt)                 | 28   |
 | [DDC-Skills-for-AI-Agents-in-Construction](https://github.com/datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction) | 221 个建筑行业 AI 技能：BIM 分析、成本估算、进度管理、文档控制、自动化工作流         | [datadrivenconstruction](https://github.com/datadrivenconstruction) | 161  |
+| [night_owl_research_agent](https://github.com/GRIND-Lab-Core/night_owl_research_agent)   | NORA：地学/遥感/GIS 全自动 AI 研究 Agent，含 GeoBenchmark、期刊模板、MCP server      | [GRIND-Lab-Core](https://github.com/GRIND-Lab-Core)                 | 88   |
 
 ### 社区精选 MCP Servers
 
@@ -159,12 +160,14 @@
 | [m3](https://github.com/rafiattrach/m3)                                                   | MIMIC-IV 医疗数据 MCP server：自然语言查询重症监护数据库（DuckDB/BigQuery）        | [rafiattrach](https://github.com/rafiattrach)     | 72   |
 | [ChatSpatial](https://github.com/cafferychen777/ChatSpatial)                             | 空间转录组学 MCP server：自然语言驱动的空间分析（Scanpy/Squidpy），含 bioRxiv 论文 | [cafferychen777](https://github.com/cafferychen777) | 39 |
 | [encode-toolkit](https://github.com/ammawla/encode-toolkit)                               | ENCODE 基因组学 MCP server：搜索、下载、分析功能基因组实验数据                     | [ammawla](https://github.com/ammawla)             | 36   |
+| [medical-mcps](https://github.com/pascalwhoop/medical-mcps)                          | 生物医学 MCP server：100+ 工具，集成 Reactome/KEGG/UniProt/ChEMBL/PubMed/OpenFDA 等 14 个数据库 | [pascalwhoop](https://github.com/pascalwhoop)     | 21   |
 
 #### 环境 / 水利
 
 | MCP Server                                                | 描述                                                                     | 来源                                          | Star |
 | --------------------------------------------------------- | ------------------------------------------------------------------------ | --------------------------------------------- | ---- |
 | [autocad-mcp](https://github.com/puran-water/autocad-mcp) | AutoCAD MCP server：面向水处理工程的 P&ID 图纸自动化，支持 AutoLISP 执行 | [puran-water](https://github.com/puran-water) | 315  |
+| [foehn](https://github.com/kayhendriksen/foehn)           | MeteoSwiss 气象数据 MCP server：20+ 数据集（站点、雷达、冰雹、预报、气候），Python API/CLI/MCP | [kayhendriksen](https://github.com/kayhendriksen) | 41   |
 
 #### 综合资源
 
