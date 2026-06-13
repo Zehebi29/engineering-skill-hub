@@ -156,10 +156,12 @@
 | [fhir-mcp-server](https://github.com/wso2/fhir-mcp-server)                                | FHIR MCP server：将任意 FHIR Server/API 暴露为 MCP server，WSO2 官方项目           | [wso2](https://github.com/wso2)                   | 123  |
 | [healthcare-mcp-public](https://github.com/Cicatriiz/healthcare-mcp-public)               | Healthcare MCP server：访问 FDA、PubMed、临床试验、ICD-10、DICOM 等医疗数据        | [Cicatriiz](https://github.com/Cicatriiz)         | 116  |
 | [pubmed-mcp-server](https://github.com/cyanheads/pubmed-mcp-server)                       | PubMed/Europe PMC MCP server：文献搜索、全文获取、引用分析、MeSH 术语，STDIO/HTTP  | [cyanheads](https://github.com/cyanheads)         | 106  |
+| [dicom-mcp](https://github.com/ChristianHinge/dicom-mcp)                                  | DICOM MCP server：连接 PACS 等 DICOM 服务器，查询/读取/移动医学影像和报告          | [ChristianHinge](https://github.com/ChristianHinge) | 96 |
 | [clinicaltrialsgov-mcp-server](https://github.com/cyanheads/clinicaltrialsgov-mcp-server) | ClinicalTrials.gov MCP server：577K 试验搜索、高级字段过滤、患者匹配、研究详情详解 | [cyanheads](https://github.com/cyanheads)         | 79   |
 | [m3](https://github.com/rafiattrach/m3)                                                   | MIMIC-IV 医疗数据 MCP server：自然语言查询重症监护数据库（DuckDB/BigQuery）        | [rafiattrach](https://github.com/rafiattrach)     | 72   |
 | [ChatSpatial](https://github.com/cafferychen777/ChatSpatial)                             | 空间转录组学 MCP server：自然语言驱动的空间分析（Scanpy/Squidpy），含 bioRxiv 论文 | [cafferychen777](https://github.com/cafferychen777) | 39 |
 | [encode-toolkit](https://github.com/ammawla/encode-toolkit)                               | ENCODE 基因组学 MCP server：搜索、下载、分析功能基因组实验数据                     | [ammawla](https://github.com/ammawla)             | 36   |
+| [omop_mcp](https://github.com/OHNLP/omop_mcp)                                            | OMOP 临床术语映射 MCP server：用 LLM 将临床术语映射到 OMOP CDM 概念，OHDSI 生态    | [OHNLP](https://github.com/OHNLP)                 | 35   |
 | [medical-mcps](https://github.com/pascalwhoop/medical-mcps)                          | 生物医学 MCP server：100+ 工具，集成 Reactome/KEGG/UniProt/ChEMBL/PubMed/OpenFDA 等 14 个数据库 | [pascalwhoop](https://github.com/pascalwhoop)     | 21   |
 
 #### 环境 / 水利
