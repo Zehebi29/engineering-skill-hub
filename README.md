@@ -81,6 +81,8 @@
 | [kicad-mcp-server](https://github.com/Seeed-Studio/kicad-mcp-server) | KiCad MCP server（Seeed Studio）：KiCad 9.0+ 原理图/PCB 分析、网表追踪、DRC/ERC            | [Seeed-Studio](https://github.com/Seeed-Studio)   | 50   |
 | [JLCEDA-MCP](https://github.com/sengbin/JLCEDA-MCP)                  | 嘉立创 EDA MCP：VS Code 插件+WebSocket 桥，原理图读写审查                                  | [sengbin](https://github.com/sengbin)             | 39   |
 | [eda-agent](https://github.com/salitronic/eda-agent)                 | Altium Designer MCP server：200+ 工具覆盖原理图、PCB、库管理，持久化 DelphiScript 桥接     | [salitronic](https://github.com/salitronic)       | 50   |
+| [easyeda-copilot](https://github.com/biosshot/easyeda-copilot)       | EasyEDA Pro AI 助手 MCP：自然语言生成原理图、LCSC 器件搜索、SPICE 仿真                     | [biosshot](https://github.com/biosshot)           | 60   |
+| [spicebridge](https://github.com/clanker-lover/spicebridge)         | NGspice 电路仿真 MCP server：AI 直连 ngspice，设计/仿真/验证电路                           | [clanker-lover](https://github.com/clanker-lover) | 23   |
 
 #### 机器人
 
