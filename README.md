@@ -94,6 +94,7 @@
 | [ros-mcp-server](https://github.com/robotmcp/ros-mcp-server)   | ROS MCP server：连接 LLM 与机器人，支持 ROS 1/2                                    | [robotmcp](https://github.com/robotmcp)       | 1283 |
 | [isaac-sim-mcp](https://github.com/omni-mcp/isaac-sim-mcp)     | NVIDIA Isaac Sim MCP server：AI 驱动机器人仿真，自然语言控制 Isaac Sim/Lab/OpenUSD | [omni-mcp](https://github.com/omni-mcp)       | 174  |
 | [ros2_mcp](https://github.com/wise-vision/ros2_mcp)            | ROS 2 MCP server：AI agent 直连机器人系统                                          | [wise-vision](https://github.com/wise-vision) | 81   |
+| [unitree-go2-mcp-server](https://github.com/lpigeon/unitree-go2-mcp-server) | Unitree Go2 四足机器人 MCP server，基于 ROS 2 控制运动/传感器    | [lpigeon](https://github.com/lpigeon)                    | 80   |
 | [nav2_mcp_server](https://github.com/ajtudela/nav2_mcp_server) | ROS 2 Nav2 MCP server：AI 控制导航栈                                               | [ajtudela](https://github.com/ajtudela)       | 72   |
 | [robotmem](https://github.com/robotmem/robotmem)               | Robot Memory：AI 机器人持久记忆系统，MCP Server + 混合搜索 + 空间检索，支持 ROS 2  | [robotmem](https://github.com/robotmem)       | 24   |
 
