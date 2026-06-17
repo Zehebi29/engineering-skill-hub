@@ -115,6 +115,7 @@
 | [RevitMCP](https://github.com/oakplank/RevitMCP)                                                    | Revit MCP server（pyRevit）：模型查询、视图控制、元素操作，pyRevit Routes 桥接                | [oakplank](https://github.com/oakplank)                           | 46   |
 | [tekla_mcp_server](https://github.com/teknovizier/tekla_mcp_server)                                 | Tekla Structures MCP server：工具化建模自动化，支持选择、组件插入、属性管理、视图操作         | [teknovizier](https://github.com/teknovizier)                     | 36   |
 | [Autodesk-Revit-MCP-Server](https://github.com/Sam-AEC/Autodesk-Revit-MCP-Server)                   | Revit MCP server（C#/.NET）：100+ 工具覆盖几何、视图、族、MEP、结构，支持 Revit 2024-2026     | [Sam-AEC](https://github.com/Sam-AEC)                             | 35   |
+| [RevitMCPBridge2026](https://github.com/WeberG619/RevitMCPBridge2026)                            | Revit MCP bridge（C#）：705+ MCP 端点，AI 全读写 Revit，BIM Ops Studio 开源项目              | [WeberG619](https://github.com/WeberG619)                         | 20   |
 
 #### 能源 / 电力 / 电池
 
