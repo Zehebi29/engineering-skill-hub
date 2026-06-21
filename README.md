@@ -56,15 +56,18 @@
 | [freecad-mcp](https://github.com/neka-nat/freecad-mcp)                                       | FreeCAD MCP server：AI 驱动参数化 CAD 建模                            | [neka-nat](https://github.com/neka-nat)             | 1119  |
 | [CAD-MCP](https://github.com/daobataotie/CAD-MCP)                                            | CAD MCP server：AI 驱动 CAD 绘图操作                                  | [daobataotie](https://github.com/daobataotie)       | 396   |
 | [freecad-ai](https://github.com/ghbalf/freecad-ai)                                           | FreeCAD AI 工作台：自然语言生成 3D 模型                               | [ghbalf](https://github.com/ghbalf)                 | 282   |
+| [mcp-3D-printer-server](https://github.com/DMontgomery40/mcp-3D-printer-server)              | 3D 打印 MCP server：OctoPrint/Klipper/Bambu/Prusa/Creality 多品牌打印机控制+STL 操作+切片 | [DMontgomery40](https://github.com/DMontgomery40)   | 195   |
 | [freecad_mcp](https://github.com/bonninr/freecad_mcp)                                        | FreeCAD MCP：连接 Claude/Cursor，参数化设计                           | [bonninr](https://github.com/bonninr)               | 194   |
 | [Easy-MCP-AutoCad](https://github.com/zh19980811/Easy-MCP-AutoCad)                           | AutoCAD MCP server：自然语言操控 AutoCAD                              | [zh19980811](https://github.com/zh19980811)         | 191   |
 | [SolidworksMCP-TS](https://github.com/vespo92/SolidworksMCP-TS)                              | SolidWorks MCP：TypeScript 实现，COM 互操参数化建模                   | [vespo92](https://github.com/vespo92)               | 178   |
 | [jarvis-onshape-mcp](https://github.com/ReshefElisha/jarvis-onshape-mcp)                     | Onshape MCP server：Claude Code 驱动云 CAD 建模                       | [ReshefElisha](https://github.com/ReshefElisha)     | 132   |
 | [Fusion-360-MCP-Server](https://github.com/AuraFriday/Fusion-360-MCP-Server)                 | Fusion 360 MCP server：AI 控制 Fusion 360                             | [AuraFriday](https://github.com/AuraFriday)         | 99    |
 | [freecad-addon-robust-mcp-server](https://github.com/spkane/freecad-addon-robust-mcp-server) | FreeCAD Robust MCP server：企业级 CAD 自动化，47 项工具+资源          | [spkane](https://github.com/spkane)                 | 122   |
+| [agentcad](https://github.com/jdilla1277/agentcad)                                            | CAD CLI + MCP server：build123d/CadQuery 脚本执行、STEP 导出、STL/GLB 网格、几何度量、浏览器预览 | [jdilla1277](https://github.com/jdilla1277)         | 48    |
 | [multiCAD-mcp](https://github.com/AnCode666/multiCAD-mcp)                                    | Multi-CAD MCP server：统一接口操控 AutoCAD、ZWCAD、BricsCAD、GstarCAD | [AnCode666](https://github.com/AnCode666)           | 45    |
 | [fusion360-mcp-server](https://github.com/faust-machines/fusion360-mcp-server)               | Fusion 360 MCP server：84 工具覆盖草图、特征、CAM、钣金，PyPI 部署    | [faust-machines](https://github.com/faust-machines) | 45    |
 | [SolidworksMCP-python](https://github.com/andrewbartels1/SolidworksMCP-python)               | SolidWorks MCP server：Python 实现，COM 互操参数化建模，CI/测试完备   | [andrewbartels1](https://github.com/andrewbartels1) | 24    |
+| [Kiln](https://github.com/codeofaxel/Kiln)                                                   | 3D 打印 MCP server：AI 驱动设计→切片→打印全流程，Bambu/Prusa/Creality/Klipper/Elegoo 15+ 品牌 | [codeofaxel](https://github.com/codeofaxel)         | 22    |
 
 #### 电气 / PCB / EDA
 
@@ -181,9 +184,11 @@
 
 #### 综合资源
 
-| MCP Server                                                  | 描述                                             | 来源                                  | Star |
-| ----------------------------------------------------------- | ------------------------------------------------ | ------------------------------------- | ---- |
-| [awesome-ai-cae](https://github.com/kimimgo/awesome-ai-cae) | 113 个 AI-ready CAE 工具精选：CFD、FEA、SPH、DEM | [kimimgo](https://github.com/kimimgo) | 34   |
+| MCP Server                                                               | 描述                                                                              | 来源                                                       | Star |
+| ------------------------------------------------------------------------ | --------------------------------------------------------------------------------- | ---------------------------------------------------------- | ---- |
+| [awesome-ai-cae](https://github.com/kimimgo/awesome-ai-cae)              | 113 个 AI-ready CAE 工具精选：CFD、FEA、SPH、DEM                                | [kimimgo](https://github.com/kimimgo)                      | 34   |
+| [LabVIEW-MCP-Server-Toolkit](https://github.com/JanGoebel/LabVIEW-MCP-Server-Toolkit) | LabVIEW MCP server 工具包：从 LabVIEW VI 直接托管 MCP server，NI 测试测量集成     | [JanGoebel](https://github.com/JanGoebel)                  | 32   |
+| [COMSOL-Multiphysics-MCP](https://github.com/Suzy-Sa/COMSOL-Multiphysics-MCP)       | COMSOL 多物理场 MCP server：建模工作流自动化、验证、RAG 辅助仿真                   | [Suzy-Sa](https://github.com/Suzy-Sa)                      | 28   |
 
 > 自动更新：每天 09:00 扫描 GitHub，发现新的高星工程 agent skill 自动添加到上表。
 
