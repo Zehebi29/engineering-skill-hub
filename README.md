@@ -182,12 +182,14 @@
 | MCP Server                                                | 描述                                                                                           | 来源                                              | Star |
 | --------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ------------------------------------------------- | ---- |
 | [autocad-mcp](https://github.com/puran-water/autocad-mcp) | AutoCAD MCP server：面向水处理工程的 P&ID 图纸自动化，支持 AutoLISP 执行                       | [puran-water](https://github.com/puran-water)     | 341  |
+| [weather-mcp-server](https://github.com/ezh0v/weather-mcp-server)                         | 轻量级天气数据 MCP server：AI 助手实时获取和解读天气数据，Go 实现，SSE 传输                     | [ezh0v](https://github.com/ezh0v)                   | 246  |
 | [foehn](https://github.com/kayhendriksen/foehn)           | MeteoSwiss 气象数据 MCP server：20+ 数据集（站点、雷达、冰雹、预报、气候），Python API/CLI/MCP | [kayhendriksen](https://github.com/kayhendriksen) | 41   |
 
 #### 综合资源
 
 | MCP Server                                                                            | 描述                                                                          | 来源                                      | Star |
 | ------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | ----------------------------------------- | ---- |
+| [us-gov-open-data-mcp](https://github.com/lzinga/us-gov-open-data-mcp)                   | 美国政府开放数据 MCP server：40+ API、250+ 工具（FDA、CDC、EPA、NWS、Treasury、FRED 等）      | [lzinga](https://github.com/lzinga)                 | 103  |
 | [awesome-ai-cae](https://github.com/kimimgo/awesome-ai-cae)                           | 113 个 AI-ready CAE 工具精选：CFD、FEA、SPH、DEM                              | [kimimgo](https://github.com/kimimgo)     | 36   |
 | [LabVIEW-MCP-Server-Toolkit](https://github.com/JanGoebel/LabVIEW-MCP-Server-Toolkit) | LabVIEW MCP server 工具包：从 LabVIEW VI 直接托管 MCP server，NI 测试测量集成 | [JanGoebel](https://github.com/JanGoebel) | 33   |
 | [COMSOL-Multiphysics-MCP](https://github.com/Suzy-Sa/COMSOL-Multiphysics-MCP)         | COMSOL 多物理场 MCP server：建模工作流自动化、验证、RAG 辅助仿真              | [Suzy-Sa](https://github.com/Suzy-Sa)     | 28   |
