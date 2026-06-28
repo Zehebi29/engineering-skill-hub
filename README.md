@@ -69,6 +69,7 @@
 | [multiCAD-mcp](https://github.com/AnCode666/multiCAD-mcp)                                    | Multi-CAD MCP server：统一接口操控 AutoCAD、ZWCAD、BricsCAD、GstarCAD                            | [AnCode666](https://github.com/AnCode666)           | 48    |
 | [fusion360-mcp-server](https://github.com/faust-machines/fusion360-mcp-server)               | Fusion 360 MCP server：84 工具覆盖草图、特征、CAM、钣金，PyPI 部署                               | [faust-machines](https://github.com/faust-machines) | 47    |
 | [SolidworksMCP-python](https://github.com/andrewbartels1/SolidworksMCP-python)               | SolidWorks MCP server：Python 实现，COM 互操参数化建模，CI/测试完备                              | [andrewbartels1](https://github.com/andrewbartels1) | 27    |
+| [build123d-mcp](https://github.com/pzfreo/build123d-mcp)                                     | build123d MCP server：AI 驱动参数化 CAD，360+ 提交/60 版本，STEP/STL/GLB 导入导出和几何度量      | [pzfreo](https://github.com/pzfreo)               | 25    |
 | [Kiln](https://github.com/codeofaxel/Kiln)                                                   | 3D 打印 MCP server：AI 驱动设计→切片→打印全流程，Bambu/Prusa/Creality/Klipper/Elegoo 15+ 品牌    | [codeofaxel](https://github.com/codeofaxel)         | 22    |
 
 #### 电气 / PCB / EDA
