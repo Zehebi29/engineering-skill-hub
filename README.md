@@ -99,6 +99,7 @@
 | [stack-chan](https://github.com/stack-chan/stack-chan)                      | Stack-chan MCP server：M5Stack 嵌入式机器人，JavaScript 驱动，MCP 自然语言控制     | [stack-chan](https://github.com/stack-chan)   | 1560 |
 | [ros-mcp-server](https://github.com/robotmcp/ros-mcp-server)                | ROS MCP server：连接 LLM 与机器人，支持 ROS 1/2                                    | [robotmcp](https://github.com/robotmcp)       | 1323 |
 | [isaac-sim-mcp](https://github.com/omni-mcp/isaac-sim-mcp)                  | NVIDIA Isaac Sim MCP server：AI 驱动机器人仿真，自然语言控制 Isaac Sim/Lab/OpenUSD | [omni-mcp](https://github.com/omni-mcp)       | 179  |
+| [agenticros](https://github.com/agenticros/agenticros)                       | ROS 2 机器人 AI agent 集成平台：MCP server + OpenClaw/Claude/Gemini 多平台适配，自然语言控制机器人感知、推理、动作 | [agenticros](https://github.com/agenticros)   | 106  |
 | [ros2_mcp](https://github.com/wise-vision/ros2_mcp)                         | ROS 2 MCP server：AI agent 直连机器人系统                                          | [wise-vision](https://github.com/wise-vision) | 81   |
 | [unitree-go2-mcp-server](https://github.com/lpigeon/unitree-go2-mcp-server) | Unitree Go2 四足机器人 MCP server，基于 ROS 2 控制运动/传感器                      | [lpigeon](https://github.com/lpigeon)         | 82   |
 | [nav2_mcp_server](https://github.com/ajtudela/nav2_mcp_server)              | ROS 2 Nav2 MCP server：AI 控制导航栈                                               | [ajtudela](https://github.com/ajtudela)       | 81   |
