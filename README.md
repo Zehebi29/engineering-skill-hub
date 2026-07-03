@@ -179,6 +179,7 @@
 | [pyomop](https://github.com/dermatologist/pyomop)                                         | OMOP CDM 数据管理 Python 包：SQLite/PostgreSQL/MySQL 支持，含 MCP server 和 LLM 集成            | [dermatologist](https://github.com/dermatologist)   | 64   |
 | [ChatSpatial](https://github.com/cafferychen777/ChatSpatial)                              | 空间转录组学 MCP server：自然语言驱动的空间分析（Scanpy/Squidpy），含 bioRxiv 论文              | [cafferychen777](https://github.com/cafferychen777) | 40   |
 | [encode-toolkit](https://github.com/ammawla/encode-toolkit)                               | ENCODE 基因组学 MCP server：搜索、下载、分析功能基因组实验数据                                  | [ammawla](https://github.com/ammawla)               | 35   |
+| [openevidence-mcp](https://github.com/bakhtiersizhaev/openevidence-mcp)                     | OpenEvidence MCP：开源浏览器会话 MCP server，连接 OpenEvidence 医学证据平台，支持问诊、文章检索           | [bakhtiersizhaev](https://github.com/bakhtiersizhaev) | 28   |
 | [omop_mcp](https://github.com/OHNLP/omop_mcp)                                             | OMOP 临床术语映射 MCP server：用 LLM 将临床术语映射到 OMOP CDM 概念，OHDSI 生态                 | [OHNLP](https://github.com/OHNLP)                   | 36   |
 | [medical-mcps](https://github.com/pascalwhoop/medical-mcps)                               | 生物医学 MCP server：100+ 工具，集成 Reactome/KEGG/UniProt/ChEMBL/PubMed/OpenFDA 等 14 个数据库 | [pascalwhoop](https://github.com/pascalwhoop)       | 21   |
 
@@ -198,6 +199,7 @@
 | [awesome-ai-cae](https://github.com/kimimgo/awesome-ai-cae)                           | 113 个 AI-ready CAE 工具精选：CFD、FEA、SPH、DEM                                         | [kimimgo](https://github.com/kimimgo)     | 36   |
 | [LabVIEW-MCP-Server-Toolkit](https://github.com/JanGoebel/LabVIEW-MCP-Server-Toolkit) | LabVIEW MCP server 工具包：从 LabVIEW VI 直接托管 MCP server，NI 测试测量集成            | [JanGoebel](https://github.com/JanGoebel) | 34   |
 | [COMSOL-Multiphysics-MCP](https://github.com/Suzy-Sa/COMSOL-Multiphysics-MCP)         | COMSOL 多物理场 MCP server：建模工作流自动化、验证、RAG 辅助仿真                         | [Suzy-Sa](https://github.com/Suzy-Sa)     | 30   |
+| [data360-mcp](https://github.com/worldbank/data360-mcp)                                     | World Bank Data360 MCP server：搜索、验证、获取发展指标（GDP、贫困、性别平等、气候等）不含幻觉 | [worldbank](https://github.com/worldbank)            | 28   |
 
 > 自动更新：每天 09:00 扫描 GitHub，发现新的高星工程 agent skill 自动添加到上表。
 
