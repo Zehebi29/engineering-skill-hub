@@ -88,6 +88,7 @@
 | [kicad-mcp-server](https://github.com/Seeed-Studio/kicad-mcp-server) | KiCad MCP server（Seeed Studio）：KiCad 9.0+ 原理图/PCB 分析、网表追踪、DRC/ERC            | [Seeed-Studio](https://github.com/Seeed-Studio)   | 53   |
 | [JLCEDA-MCP](https://github.com/sengbin/JLCEDA-MCP)                  | 嘉立创 EDA MCP：VS Code 插件+WebSocket 桥，原理图读写审查                                  | [sengbin](https://github.com/sengbin)             | 49   |
 | [ansys-aedt-mcp](https://github.com/LaplaceYoung/ansys-aedt-mcp)     | Ansys AEDT MCP server：HFSS/Maxwell/Q3D/Icepak/Circuit 电磁仿真自动化，PyAEDT + 原生 API   | [LaplaceYoung](https://github.com/LaplaceYoung)   | 18   |
+| [altium-designer-mcp](https://github.com/embedded-society/altium-designer-mcp) | Altium Designer MCP server（Rust）：AI 辅助元器件库管理，728 提交，持续活跃              | [embedded-society](https://github.com/embedded-society) | 23   |
 | [eda-agent](https://github.com/salitronic/eda-agent)                 | Altium Designer MCP server：200+ 工具覆盖原理图、PCB、库管理，持久化 DelphiScript 桥接     | [salitronic](https://github.com/salitronic)       | 68   |
 | [easyeda-copilot](https://github.com/biosshot/easyeda-copilot)       | EasyEDA Pro AI 助手 MCP：自然语言生成原理图、LCSC 器件搜索、SPICE 仿真                     | [biosshot](https://github.com/biosshot)           | 66   |
 | [spicebridge](https://github.com/clanker-lover/spicebridge)          | NGspice 电路仿真 MCP server：AI 直连 ngspice，设计/仿真/验证电路                           | [clanker-lover](https://github.com/clanker-lover) | 23   |
@@ -197,6 +198,7 @@
 | ------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | ----------------------------------------- | ---- |
 | [us-gov-open-data-mcp](https://github.com/lzinga/us-gov-open-data-mcp)                | 美国政府开放数据 MCP server：40+ API、250+ 工具（FDA、CDC、EPA、NWS、Treasury、FRED 等） | [lzinga](https://github.com/lzinga)       | 103  |
 | [awesome-ai-cae](https://github.com/kimimgo/awesome-ai-cae)                           | 113 个 AI-ready CAE 工具精选：CFD、FEA、SPH、DEM                                         | [kimimgo](https://github.com/kimimgo)     | 36   |
+| [cad-cae-copilot](https://github.com/armpro24-blip/cad-cae-copilot)                   | CAD/CAE 智能体工作台：AI 原生 build123d 参数化建模+网格划分+仿真求解，含 MCP server，827 提交 | [armpro24-blip](https://github.com/armpro24-blip) | 36   |
 | [LabVIEW-MCP-Server-Toolkit](https://github.com/JanGoebel/LabVIEW-MCP-Server-Toolkit) | LabVIEW MCP server 工具包：从 LabVIEW VI 直接托管 MCP server，NI 测试测量集成            | [JanGoebel](https://github.com/JanGoebel) | 34   |
 | [COMSOL-Multiphysics-MCP](https://github.com/Suzy-Sa/COMSOL-Multiphysics-MCP)         | COMSOL 多物理场 MCP server：建模工作流自动化、验证、RAG 辅助仿真                         | [Suzy-Sa](https://github.com/Suzy-Sa)     | 30   |
 | [data360-mcp](https://github.com/worldbank/data360-mcp)                                     | World Bank Data360 MCP server：搜索、验证、获取发展指标（GDP、贫困、性别平等、气候等）不含幻觉 | [worldbank](https://github.com/worldbank)            | 28   |
