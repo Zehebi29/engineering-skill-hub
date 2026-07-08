@@ -46,6 +46,7 @@
 | [ros2-engineering-skills](https://github.com/dbwls99706/ros2-engineering-skills)                                               | ROS 2 生产级开发 agent skill：workspace、nodes、QoS、Nav2、MoveIt 2、实时系统        | [dbwls99706](https://github.com/dbwls99706)                         | 124  |
 | [night_owl_research_agent](https://github.com/GRIND-Lab-Core/night_owl_research_agent)                                         | NORA：地学/遥感/GIS 全自动 AI 研究 Agent，含 GeoBenchmark、期刊模板、MCP server      | [GRIND-Lab-Core](https://github.com/GRIND-Lab-Core)                 | 98   |
 | [geoscience-skills](https://github.com/SteadfastAsArt/geoscience-skills)                                                       | 30 个 AI-powered 地学技能集合：地震、测井、3D 建模、反演、地统计学、空间回归、NetCDF | [SteadfastAsArt](https://github.com/SteadfastAsArt)                 | 35   |
+| [hls-generator](https://github.com/Eriemon/hls-generator)                                                                     | Agent skill：AMD/Xilinx Vitis HLS C/C++ 高级综合工作流，含设计、仿真、优化、验证     | [Eriemon](https://github.com/Eriemon)                               | 20   |
 
 ### 社区精选 MCP Servers
 
