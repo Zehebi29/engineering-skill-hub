@@ -33,20 +33,26 @@
 
 ### 社区精选 Skills
 
-来自社区的高质量工程相关 agent skill（prompt 模板）。
+来自社区的高质量工程相关 agent skill（prompt 模板）
 
-| Skill                                                                                                                          | 描述                                                                                 | 来源                                                                | Star |
-| ------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------- | ---- |
+| Skill | 描述 | 来源 | Star |
+| ---- | ---- | ---- | ---- |
 | [text-to-cad](https://github.com/earthtojake/text-to-cad)                                                                      | Agent skills 合集：CAD、机器人、硬件设计的自然语言驱动                               | [earthtojake](https://github.com/earthtojake)                       | 7614 |
+| [medical-research-skills](https://github.com/aipoch/medical-research-skills) | Hundreds of agent skills for medical research, covering protocol design, data analysis, evidence insights, and academic writing | [aipoch](https://github.com/aipoch) | 1337 |
+| [ClawBio](https://github.com/ClawBio/ClawBio) | First bioinformatics-native AI agent skill library for reproducible, local-first bioinformatics workflows | [ClawBio](https://github.com/ClawBio) | 1032 |
+| [bioSkills](https://github.com/GPTomics/bioSkills) | Set of SKILL.md files for doing bioinformatics with AI agents — alignment, variant calling, single-cell, and more | [GPTomics](https://github.com/GPTomics) | 1002 |
 | [kicad-happy](https://github.com/aklofas/kicad-happy)                                                                          | AI 编码 agent 技能集：KiCad 原理图分析、PCB 审查、电路设计自动化                     | [aklofas](https://github.com/aklofas)                               | 682  |
 | [robotics-agent-skills](https://github.com/arpitg1304/robotics-agent-skills)                                                   | 机器人 agent 技能集：ROS1/ROS2 生产级开发，设计模式、SOLID 原则、测试                | [arpitg1304](https://github.com/arpitg1304)                         | 308  |
 | [NextBoard](https://github.com/LeoKemp223/NextBoard)                                                                           | 硬件 PCB 方案设计的 AI Agent：需求确认、器件选型、BOM 输出、原理图生成               | [LeoKemp223](https://github.com/LeoKemp223)                         | 281  |
+| [SciAgent-Skills](https://github.com/jaechang-hits/SciAgent-Skills) | 197 bioinformatics and life science skills for Claude Code — RNA-seq, single-cell, drug discovery, proteomics, BixBench 92% | [jaechang-hits](https://github.com/jaechang-hits) | 229 |
 | [DDC-Skills-for-AI-Agents-in-Construction](https://github.com/datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction) | 221 个建筑行业 AI 技能：BIM 分析、成本估算、进度管理、文档控制、自动化工作流         | [datadrivenconstruction](https://github.com/datadrivenconstruction) | 226  |
 | [verilog-generator](https://github.com/Eriemon/verilog-generator)                                                              | 代理技能：Verilog-2001 RTL 生成和 FPGA 设计工作流，含接口模板、验证门控、CLI 运行时  | [Eriemon](https://github.com/Eriemon)                               | 187  |
 | [ros2-engineering-skills](https://github.com/dbwls99706/ros2-engineering-skills)                                               | ROS 2 生产级开发 agent skill：workspace、nodes、QoS、Nav2、MoveIt 2、实时系统        | [dbwls99706](https://github.com/dbwls99706)                         | 124  |
 | [night_owl_research_agent](https://github.com/GRIND-Lab-Core/night_owl_research_agent)                                         | NORA：地学/遥感/GIS 全自动 AI 研究 Agent，含 GeoBenchmark、期刊模板、MCP server      | [GRIND-Lab-Core](https://github.com/GRIND-Lab-Core)                 | 98   |
+| [healthcare-agents](https://github.com/ajhcs/healthcare-agents) | Portable SKILL.md pack with 51 specialist AI agents for US healthcare administration workflows | [ajhcs](https://github.com/ajhcs) | 44 |
 | [geoscience-skills](https://github.com/SteadfastAsArt/geoscience-skills)                                                       | 30 个 AI-powered 地学技能集合：地震、测井、3D 建模、反演、地统计学、空间回归、NetCDF | [SteadfastAsArt](https://github.com/SteadfastAsArt)                 | 35   |
 | [hls-generator](https://github.com/Eriemon/hls-generator)                                                                     | Agent skill：AMD/Xilinx Vitis HLS C/C++ 高级综合工作流，含设计、仿真、优化、验证     | [Eriemon](https://github.com/Eriemon)                               | 20   |
+
 
 ### 社区精选 MCP Servers
 
