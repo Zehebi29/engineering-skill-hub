@@ -204,6 +204,7 @@
 
 | MCP Server                                                                            | 描述                                                                                     | 来源                                      | Star |
 | ------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | ----------------------------------------- | ---- |
+| [itasca-mcp](https://github.com/yusong652/itasca-mcp)                                 | ITASCA 数值模拟引擎 MCP server：PFC/FLAC/3DEC/MPoint/MassFlow，DEM/FEM 岩土与地质力学仿真  | [yusong652](https://github.com/yusong652) | 121  |
 | [us-gov-open-data-mcp](https://github.com/lzinga/us-gov-open-data-mcp)                | 美国政府开放数据 MCP server：40+ API、250+ 工具（FDA、CDC、EPA、NWS、Treasury、FRED 等） | [lzinga](https://github.com/lzinga)       | 103  |
 | [awesome-ai-cae](https://github.com/kimimgo/awesome-ai-cae)                           | 113 个 AI-ready CAE 工具精选：CFD、FEA、SPH、DEM                                         | [kimimgo](https://github.com/kimimgo)     | 37   |
 | [LabVIEW-MCP-Server-Toolkit](https://github.com/JanGoebel/LabVIEW-MCP-Server-Toolkit) | LabVIEW MCP server 工具包：从 LabVIEW VI 直接托管 MCP server，NI 测试测量集成            | [JanGoebel](https://github.com/JanGoebel) | 36   |
