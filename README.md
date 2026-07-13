@@ -35,23 +35,23 @@
 
 来自社区的高质量工程相关 agent skill（prompt 模板）
 
-| Skill | 描述 | 来源 | Star |
-| ---- | ---- | ---- | ---- |
-| [text-to-cad](https://github.com/earthtojake/text-to-cad)                                                                      | Agent skills 合集：CAD、机器人、硬件设计的自然语言驱动                               | [earthtojake](https://github.com/earthtojake)                       | 7614 |
-| [medical-research-skills](https://github.com/aipoch/medical-research-skills) | Hundreds of agent skills for medical research, covering protocol design, data analysis, evidence insights, and academic writing | [aipoch](https://github.com/aipoch) | 1337 |
-| [ClawBio](https://github.com/ClawBio/ClawBio) | First bioinformatics-native AI agent skill library for reproducible, local-first bioinformatics workflows | [ClawBio](https://github.com/ClawBio) | 1032 |
-| [bioSkills](https://github.com/GPTomics/bioSkills) | Set of SKILL.md files for doing bioinformatics with AI agents — alignment, variant calling, single-cell, and more | [GPTomics](https://github.com/GPTomics) | 1002 |
-| [kicad-happy](https://github.com/aklofas/kicad-happy)                                                                          | AI 编码 agent 技能集：KiCad 原理图分析、PCB 审查、电路设计自动化                     | [aklofas](https://github.com/aklofas)                               | 682  |
-| [robotics-agent-skills](https://github.com/arpitg1304/robotics-agent-skills)                                                   | 机器人 agent 技能集：ROS1/ROS2 生产级开发，设计模式、SOLID 原则、测试                | [arpitg1304](https://github.com/arpitg1304)                         | 308  |
-| [NextBoard](https://github.com/LeoKemp223/NextBoard)                                                                           | 硬件 PCB 方案设计的 AI Agent：需求确认、器件选型、BOM 输出、原理图生成               | [LeoKemp223](https://github.com/LeoKemp223)                         | 281  |
-| [SciAgent-Skills](https://github.com/jaechang-hits/SciAgent-Skills) | 197 bioinformatics and life science skills for Claude Code — RNA-seq, single-cell, drug discovery, proteomics, BixBench 92% | [jaechang-hits](https://github.com/jaechang-hits) | 229 |
-| [DDC-Skills-for-AI-Agents-in-Construction](https://github.com/datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction) | 221 个建筑行业 AI 技能：BIM 分析、成本估算、进度管理、文档控制、自动化工作流         | [datadrivenconstruction](https://github.com/datadrivenconstruction) | 226  |
-| [verilog-generator](https://github.com/Eriemon/verilog-generator)                                                              | 代理技能：Verilog-2001 RTL 生成和 FPGA 设计工作流，含接口模板、验证门控、CLI 运行时  | [Eriemon](https://github.com/Eriemon)                               | 187  |
-| [ros2-engineering-skills](https://github.com/dbwls99706/ros2-engineering-skills)                                               | ROS 2 生产级开发 agent skill：workspace、nodes、QoS、Nav2、MoveIt 2、实时系统        | [dbwls99706](https://github.com/dbwls99706)                         | 124  |
-| [night_owl_research_agent](https://github.com/GRIND-Lab-Core/night_owl_research_agent)                                         | NORA：地学/遥感/GIS 全自动 AI 研究 Agent，含 GeoBenchmark、期刊模板、MCP server      | [GRIND-Lab-Core](https://github.com/GRIND-Lab-Core)                 | 98   |
-| [healthcare-agents](https://github.com/ajhcs/healthcare-agents) | Portable SKILL.md pack with 51 specialist AI agents for US healthcare administration workflows | [ajhcs](https://github.com/ajhcs) | 44 |
-| [geoscience-skills](https://github.com/SteadfastAsArt/geoscience-skills)                                                       | 30 个 AI-powered 地学技能集合：地震、测井、3D 建模、反演、地统计学、空间回归、NetCDF | [SteadfastAsArt](https://github.com/SteadfastAsArt)                 | 35   |
-| [hls-generator](https://github.com/Eriemon/hls-generator)                                                                     | Agent skill：AMD/Xilinx Vitis HLS C/C++ 高级综合工作流，含设计、仿真、优化、验证     | [Eriemon](https://github.com/Eriemon)                               | 20   |
+| Skill                                                                                                                          | 描述                                                                                                                            | 来源                                                                | Star |
+| ------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- | ---- |
+| [text-to-cad](https://github.com/earthtojake/text-to-cad)                                                                      | Agent skills 合集：CAD、机器人、硬件设计的自然语言驱动                                                                          | [earthtojake](https://github.com/earthtojake)                       | 8047 |
+| [medical-research-skills](https://github.com/aipoch/medical-research-skills)                                                   | Hundreds of agent skills for medical research, covering protocol design, data analysis, evidence insights, and academic writing | [aipoch](https://github.com/aipoch)                                 | 1409 |
+| [ClawBio](https://github.com/ClawBio/ClawBio)                                                                                  | First bioinformatics-native AI agent skill library for reproducible, local-first bioinformatics workflows                       | [ClawBio](https://github.com/ClawBio)                               | 1038 |
+| [bioSkills](https://github.com/GPTomics/bioSkills)                                                                             | Set of SKILL.md files for doing bioinformatics with AI agents — alignment, variant calling, single-cell, and more               | [GPTomics](https://github.com/GPTomics)                             | 1010 |
+| [kicad-happy](https://github.com/aklofas/kicad-happy)                                                                          | AI 编码 agent 技能集：KiCad 原理图分析、PCB 审查、电路设计自动化                                                                | [aklofas](https://github.com/aklofas)                               | 721  |
+| [robotics-agent-skills](https://github.com/arpitg1304/robotics-agent-skills)                                                   | 机器人 agent 技能集：ROS1/ROS2 生产级开发，设计模式、SOLID 原则、测试                                                           | [arpitg1304](https://github.com/arpitg1304)                         | 315  |
+| [NextBoard](https://github.com/LeoKemp223/NextBoard)                                                                           | 硬件 PCB 方案设计的 AI Agent：需求确认、器件选型、BOM 输出、原理图生成                                                          | [LeoKemp223](https://github.com/LeoKemp223)                         | 291  |
+| [SciAgent-Skills](https://github.com/jaechang-hits/SciAgent-Skills)                                                            | 197 bioinformatics and life science skills for Claude Code — RNA-seq, single-cell, drug discovery, proteomics, BixBench 92%     | [jaechang-hits](https://github.com/jaechang-hits)                   | 233  |
+| [DDC-Skills-for-AI-Agents-in-Construction](https://github.com/datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction) | 221 个建筑行业 AI 技能：BIM 分析、成本估算、进度管理、文档控制、自动化工作流                                                    | [datadrivenconstruction](https://github.com/datadrivenconstruction) | 239  |
+| [verilog-generator](https://github.com/Eriemon/verilog-generator)                                                              | 代理技能：Verilog-2001 RTL 生成和 FPGA 设计工作流，含接口模板、验证门控、CLI 运行时                                             | [Eriemon](https://github.com/Eriemon)                               | 196  |
+| [ros2-engineering-skills](https://github.com/dbwls99706/ros2-engineering-skills)                                               | ROS 2 生产级开发 agent skill：workspace、nodes、QoS、Nav2、MoveIt 2、实时系统                                                   | [dbwls99706](https://github.com/dbwls99706)                         | 132  |
+| [night_owl_research_agent](https://github.com/GRIND-Lab-Core/night_owl_research_agent)                                         | NORA：地学/遥感/GIS 全自动 AI 研究 Agent，含 GeoBenchmark、期刊模板、MCP server                                                 | [GRIND-Lab-Core](https://github.com/GRIND-Lab-Core)                 | 98   |
+| [healthcare-agents](https://github.com/ajhcs/healthcare-agents)                                                                | Portable SKILL.md pack with 51 specialist AI agents for US healthcare administration workflows                                  | [ajhcs](https://github.com/ajhcs)                                   | 45   |
+| [geoscience-skills](https://github.com/SteadfastAsArt/geoscience-skills)                                                       | 30 个 AI-powered 地学技能集合：地震、测井、3D 建模、反演、地统计学、空间回归、NetCDF                                            | [SteadfastAsArt](https://github.com/SteadfastAsArt)                 | 39   |
+| [hls-generator](https://github.com/Eriemon/hls-generator)                                                                      | Agent skill：AMD/Xilinx Vitis HLS C/C++ 高级综合工作流，含设计、仿真、优化、验证                                                | [Eriemon](https://github.com/Eriemon)                               | 20   |
 
 
 ### 社区精选 MCP Servers
@@ -62,55 +62,55 @@
 
 | MCP Server                                                                                   | 描述                                                                                             | 来源                                                | Star  |
 | -------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | --------------------------------------------------- | ----- |
-| [blender-mcp](https://github.com/ahujasid/blender-mcp)                                       | Blender MCP server：AI 驱动 3D 建模、渲染、动画，支持场景操作和脚本化                            | [ahujasid](https://github.com/ahujasid)             | 23507 |
-| [freecad-mcp](https://github.com/neka-nat/freecad-mcp)                                       | FreeCAD MCP server：AI 驱动参数化 CAD 建模                                                       | [neka-nat](https://github.com/neka-nat)             | 1243  |
-| [CAD-MCP](https://github.com/daobataotie/CAD-MCP)                                            | CAD MCP server：AI 驱动 CAD 绘图操作                                                             | [daobataotie](https://github.com/daobataotie)       | 439   |
-| [freecad-ai](https://github.com/ghbalf/freecad-ai)                                           | FreeCAD AI 工作台：自然语言生成 3D 模型                                                          | [ghbalf](https://github.com/ghbalf)                 | 356   |
-| [mcp-3D-printer-server](https://github.com/DMontgomery40/mcp-3D-printer-server)              | 3D 打印 MCP server：OctoPrint/Klipper/Bambu/Prusa/Creality 多品牌打印机控制+STL 操作+切片        | [DMontgomery40](https://github.com/DMontgomery40)   | 198   |
-| [freecad_mcp](https://github.com/bonninr/freecad_mcp)                                        | FreeCAD MCP：连接 Claude/Cursor，参数化设计                                                      | [bonninr](https://github.com/bonninr)               | 199   |
-| [Easy-MCP-AutoCad](https://github.com/zh19980811/Easy-MCP-AutoCad)                           | AutoCAD MCP server：自然语言操控 AutoCAD                                                         | [zh19980811](https://github.com/zh19980811)         | 210   |
-| [SolidworksMCP-TS](https://github.com/vespo92/SolidworksMCP-TS)                              | SolidWorks MCP：TypeScript 实现，COM 互操参数化建模                                              | [vespo92](https://github.com/vespo92)               | 197   |
-| [jarvis-onshape-mcp](https://github.com/ReshefElisha/jarvis-onshape-mcp)                     | Onshape MCP server：Claude Code 驱动云 CAD 建模                                                  | [ReshefElisha](https://github.com/ReshefElisha)     | 137   |
-| [OpenSCAD-MCP-Server](https://github.com/jhacksman/OpenSCAD-MCP-Server)                      | OpenSCAD MCP server：文本/图像生成多视图 3D 模型，CUDA 重建+参数化导出                           | [jhacksman](https://github.com/jhacksman)           | 163   |
+| [blender-mcp](https://github.com/ahujasid/blender-mcp)                                       | Blender MCP server：AI 驱动 3D 建模、渲染、动画，支持场景操作和脚本化                            | [ahujasid](https://github.com/ahujasid)             | 23779 |
+| [freecad-mcp](https://github.com/neka-nat/freecad-mcp)                                       | FreeCAD MCP server：AI 驱动参数化 CAD 建模                                                       | [neka-nat](https://github.com/neka-nat)             | 1287  |
+| [CAD-MCP](https://github.com/daobataotie/CAD-MCP)                                            | CAD MCP server：AI 驱动 CAD 绘图操作                                                             | [daobataotie](https://github.com/daobataotie)       | 447   |
+| [freecad-ai](https://github.com/ghbalf/freecad-ai)                                           | FreeCAD AI 工作台：自然语言生成 3D 模型                                                          | [ghbalf](https://github.com/ghbalf)                 | 367   |
+| [mcp-3D-printer-server](https://github.com/DMontgomery40/mcp-3D-printer-server)              | 3D 打印 MCP server：OctoPrint/Klipper/Bambu/Prusa/Creality 多品牌打印机控制+STL 操作+切片        | [DMontgomery40](https://github.com/DMontgomery40)   | 203   |
+| [freecad_mcp](https://github.com/bonninr/freecad_mcp)                                        | FreeCAD MCP：连接 Claude/Cursor，参数化设计                                                      | [bonninr](https://github.com/bonninr)               | 202   |
+| [Easy-MCP-AutoCad](https://github.com/zh19980811/Easy-MCP-AutoCad)                           | AutoCAD MCP server：自然语言操控 AutoCAD                                                         | [zh19980811](https://github.com/zh19980811)         | 214   |
+| [SolidworksMCP-TS](https://github.com/vespo92/SolidworksMCP-TS)                              | SolidWorks MCP：TypeScript 实现，COM 互操参数化建模                                              | [vespo92](https://github.com/vespo92)               | 199   |
+| [jarvis-onshape-mcp](https://github.com/ReshefElisha/jarvis-onshape-mcp)                     | Onshape MCP server：Claude Code 驱动云 CAD 建模                                                  | [ReshefElisha](https://github.com/ReshefElisha)     | 139   |
+| [OpenSCAD-MCP-Server](https://github.com/jhacksman/OpenSCAD-MCP-Server)                      | OpenSCAD MCP server：文本/图像生成多视图 3D 模型，CUDA 重建+参数化导出                           | [jhacksman](https://github.com/jhacksman)           | 166   |
 | [Fusion-360-MCP-Server](https://github.com/AuraFriday/Fusion-360-MCP-Server)                 | Fusion 360 MCP server：AI 控制 Fusion 360                                                        | [AuraFriday](https://github.com/AuraFriday)         | 108   |
-| [openscad-mcp](https://github.com/quellant/openscad-mcp)                                     | OpenSCAD MCP server：AI 驱动 3D 建模渲染，FastMCP 实现，300+ 测试                                | [quellant](https://github.com/quellant)             | 108   |
-| [freecad-addon-robust-mcp-server](https://github.com/spkane/freecad-addon-robust-mcp-server) | FreeCAD Robust MCP server：企业级 CAD 自动化，47 项工具+资源                                     | [spkane](https://github.com/spkane)                 | 135   |
-| [mcp-server-solidworks](https://github.com/eyfel/mcp-server-solidworks)                     | SolidWorks MCP server：C# COM 互操，技术制图、模型几何回读，长期不活跃后重新维护                  | [eyfel](https://github.com/eyfel)                   | 131   |
-| [agentcad](https://github.com/jdilla1277/agentcad)                                           | CAD CLI + MCP server：build123d/CadQuery 脚本执行、STEP 导出、STL/GLB 网格、几何度量、浏览器预览 | [jdilla1277](https://github.com/jdilla1277)         | 60    |
-| [multiCAD-mcp](https://github.com/AnCode666/multiCAD-mcp)                                    | Multi-CAD MCP server：统一接口操控 AutoCAD、ZWCAD、BricsCAD、GstarCAD                            | [AnCode666](https://github.com/AnCode666)           | 53    |
-| [fusion360-mcp-server](https://github.com/faust-machines/fusion360-mcp-server)               | Fusion 360 MCP server：84 工具覆盖草图、特征、CAM、钣金，PyPI 部署                               | [faust-machines](https://github.com/faust-machines) | 47    |
-| [SolidworksMCP-python](https://github.com/andrewbartels1/SolidworksMCP-python)               | SolidWorks MCP server：Python 实现，COM 互操参数化建模，CI/测试完备                              | [andrewbartels1](https://github.com/andrewbartels1) | 33    |
+| [openscad-mcp](https://github.com/quellant/openscad-mcp)                                     | OpenSCAD MCP server：AI 驱动 3D 建模渲染，FastMCP 实现，300+ 测试                                | [quellant](https://github.com/quellant)             | 115   |
+| [freecad-addon-robust-mcp-server](https://github.com/spkane/freecad-addon-robust-mcp-server) | FreeCAD Robust MCP server：企业级 CAD 自动化，47 项工具+资源                                     | [spkane](https://github.com/spkane)                 | 141   |
+| [mcp-server-solidworks](https://github.com/eyfel/mcp-server-solidworks)                      | SolidWorks MCP server：C# COM 互操，技术制图、模型几何回读，长期不活跃后重新维护                 | [eyfel](https://github.com/eyfel)                   | 141   |
+| [agentcad](https://github.com/jdilla1277/agentcad)                                           | CAD CLI + MCP server：build123d/CadQuery 脚本执行、STEP 导出、STL/GLB 网格、几何度量、浏览器预览 | [jdilla1277](https://github.com/jdilla1277)         | 63    |
+| [multiCAD-mcp](https://github.com/AnCode666/multiCAD-mcp)                                    | Multi-CAD MCP server：统一接口操控 AutoCAD、ZWCAD、BricsCAD、GstarCAD                            | [AnCode666](https://github.com/AnCode666)           | 58    |
+| [fusion360-mcp-server](https://github.com/faust-machines/fusion360-mcp-server)               | Fusion 360 MCP server：84 工具覆盖草图、特征、CAM、钣金，PyPI 部署                               | [faust-machines](https://github.com/faust-machines) | 52    |
+| [SolidworksMCP-python](https://github.com/andrewbartels1/SolidworksMCP-python)               | SolidWorks MCP server：Python 实现，COM 互操参数化建模，CI/测试完备                              | [andrewbartels1](https://github.com/andrewbartels1) | 37    |
 | [build123d-mcp](https://github.com/pzfreo/build123d-mcp)                                     | build123d MCP server：AI 驱动参数化 CAD，360+ 提交/60 版本，STEP/STL/GLB 导入导出和几何度量      | [pzfreo](https://github.com/pzfreo)                 | 28    |
-| [Kiln](https://github.com/codeofaxel/Kiln)                                                   | 3D 打印 MCP server：AI 驱动设计→切片→打印全流程，Bambu/Prusa/Creality/Klipper/Elegoo 15+ 品牌    | [codeofaxel](https://github.com/codeofaxel)         | 31    |
+| [Kiln](https://github.com/codeofaxel/Kiln)                                                   | 3D 打印 MCP server：AI 驱动设计→切片→打印全流程，Bambu/Prusa/Creality/Klipper/Elegoo 15+ 品牌    | [codeofaxel](https://github.com/codeofaxel)         | 33    |
 
 #### 电气 / PCB / EDA
 
 | MCP Server                                                           | 描述                                                                                       | 来源                                              | Star |
 | -------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | ------------------------------------------------- | ---- |
-| [KiCAD-MCP-Server](https://github.com/mixelpixx/KiCAD-MCP-Server)    | KiCAD MCP server：122 项工具，16 类 PCB 自动化（原理图、布局、DFM、Gerber）                | [mixelpixx](https://github.com/mixelpixx)         | 1453 |
-| [kicad-mcp](https://github.com/lamaalrajih/kicad-mcp)                | KiCad MCP server：跨平台 PCB 设计自然语言交互                                              | [lamaalrajih](https://github.com/lamaalrajih)     | 481  |
-| [kicad-mcp-pro](https://github.com/oaslananka/kicad-mcp-pro)         | KiCad MCP server：PCB 和原理图自动化，DFM/SI/PI 辅助                                       | [oaslananka](https://github.com/oaslananka)       | 125  |
-| [circuitron](https://github.com/Shaurya-Sethi/circuitron)            | Agentic PCB Design Accelerator：多智能体系统，自然语言生成网表→布局→KiCad 输出，含 MCP RAG | [Shaurya-Sethi](https://github.com/Shaurya-Sethi) | 106  |
-| [MCP4EDA](https://github.com/NellyW8/MCP4EDA)                        | EDA MCP server：LLM 驱动 EDA 工具链（论文配套）                                            | [NellyW8](https://github.com/NellyW8)             | 93   |
-| [altium-mcp](https://github.com/coffeenmusic/altium-mcp)             | Altium Designer MCP server：原理图、PCB、库管理自然语言操控                                | [coffeenmusic](https://github.com/coffeenmusic)   | 108  |
-| [pcbparts-mcp](https://github.com/Averyy/pcbparts-mcp)               | 电子元器件搜索 MCP server：JLCPCB/Mouser/DigiKey 1.5M+ 器件库                              | [Averyy](https://github.com/Averyy)               | 73   |
-| [jlcmcp](https://github.com/hyl64/jlcmcp)                            | 嘉立创 EDA MCP server：39 个 PCB 自动化工具，直接操控 JLC EDA                              | [hyl64](https://github.com/hyl64)                 | 137  |
-| [kicad-mcp-server](https://github.com/Seeed-Studio/kicad-mcp-server) | KiCad MCP server（Seeed Studio）：KiCad 9.0+ 原理图/PCB 分析、网表追踪、DRC/ERC            | [Seeed-Studio](https://github.com/Seeed-Studio)   | 58   |
-| [JLCEDA-MCP](https://github.com/sengbin/JLCEDA-MCP)                  | 嘉立创 EDA MCP：VS Code 插件+WebSocket 桥，原理图读写审查                                  | [sengbin](https://github.com/sengbin)             | 50   |
-| [ansys-aedt-mcp](https://github.com/LaplaceYoung/ansys-aedt-mcp)     | Ansys AEDT MCP server：HFSS/Maxwell/Q3D/Icepak/Circuit 电磁仿真自动化，PyAEDT + 原生 API   | [LaplaceYoung](https://github.com/LaplaceYoung)   | 18   |
-| [eda-agent](https://github.com/salitronic/eda-agent)                 | Altium Designer MCP server：200+ 工具覆盖原理图、PCB、库管理，持久化 DelphiScript 桥接     | [salitronic](https://github.com/salitronic)       | 79   |
-| [easyeda-copilot](https://github.com/biosshot/easyeda-copilot)       | EasyEDA Pro AI 助手 MCP：自然语言生成原理图、LCSC 器件搜索、SPICE 仿真                     | [biosshot](https://github.com/biosshot)           | 67   |
+| [KiCAD-MCP-Server](https://github.com/mixelpixx/KiCAD-MCP-Server)    | KiCAD MCP server：122 项工具，16 类 PCB 自动化（原理图、布局、DFM、Gerber）                | [mixelpixx](https://github.com/mixelpixx)         | 1513 |
+| [kicad-mcp](https://github.com/lamaalrajih/kicad-mcp)                | KiCad MCP server：跨平台 PCB 设计自然语言交互                                              | [lamaalrajih](https://github.com/lamaalrajih)     | 487  |
+| [kicad-mcp-pro](https://github.com/oaslananka/kicad-mcp-pro)         | KiCad MCP server：PCB 和原理图自动化，DFM/SI/PI 辅助                                       | [oaslananka](https://github.com/oaslananka)       | 23   |
+| [circuitron](https://github.com/Shaurya-Sethi/circuitron)            | Agentic PCB Design Accelerator：多智能体系统，自然语言生成网表→布局→KiCad 输出，含 MCP RAG | [Shaurya-Sethi](https://github.com/Shaurya-Sethi) | 108  |
+| [MCP4EDA](https://github.com/NellyW8/MCP4EDA)                        | EDA MCP server：LLM 驱动 EDA 工具链（论文配套）                                            | [NellyW8](https://github.com/NellyW8)             | 96   |
+| [altium-mcp](https://github.com/coffeenmusic/altium-mcp)             | Altium Designer MCP server：原理图、PCB、库管理自然语言操控                                | [coffeenmusic](https://github.com/coffeenmusic)   | 110  |
+| [pcbparts-mcp](https://github.com/Averyy/pcbparts-mcp)               | 电子元器件搜索 MCP server：JLCPCB/Mouser/DigiKey 1.5M+ 器件库                              | [Averyy](https://github.com/Averyy)               | 78   |
+| [jlcmcp](https://github.com/hyl64/jlcmcp)                            | 嘉立创 EDA MCP server：39 个 PCB 自动化工具，直接操控 JLC EDA                              | [hyl64](https://github.com/hyl64)                 | 144  |
+| [kicad-mcp-server](https://github.com/Seeed-Studio/kicad-mcp-server) | KiCad MCP server（Seeed Studio）：KiCad 9.0+ 原理图/PCB 分析、网表追踪、DRC/ERC            | [Seeed-Studio](https://github.com/Seeed-Studio)   | 62   |
+| [JLCEDA-MCP](https://github.com/sengbin/JLCEDA-MCP)                  | 嘉立创 EDA MCP：VS Code 插件+WebSocket 桥，原理图读写审查                                  | [sengbin](https://github.com/sengbin)             | 53   |
+| [ansys-aedt-mcp](https://github.com/LaplaceYoung/ansys-aedt-mcp)     | Ansys AEDT MCP server：HFSS/Maxwell/Q3D/Icepak/Circuit 电磁仿真自动化，PyAEDT + 原生 API   | [LaplaceYoung](https://github.com/LaplaceYoung)   | 20   |
+| [eda-agent](https://github.com/salitronic/eda-agent)                 | Altium Designer MCP server：200+ 工具覆盖原理图、PCB、库管理，持久化 DelphiScript 桥接     | [salitronic](https://github.com/salitronic)       | 86   |
+| [easyeda-copilot](https://github.com/biosshot/easyeda-copilot)       | EasyEDA Pro AI 助手 MCP：自然语言生成原理图、LCSC 器件搜索、SPICE 仿真                     | [biosshot](https://github.com/biosshot)           | 77   |
 | [spicebridge](https://github.com/clanker-lover/spicebridge)          | NGspice 电路仿真 MCP server：AI 直连 ngspice，设计/仿真/验证电路                           | [clanker-lover](https://github.com/clanker-lover) | 25   |
-| [ltspice-mcp](https://github.com/Cognitohazard/ltspice-mcp)          | LTspice/NGspice 电路仿真 MCP server：AI 驱动电路设计、仿真、蒙特卡洛分析、波形测量         | [Cognitohazard](https://github.com/Cognitohazard) | 17   |
+| [ltspice-mcp](https://github.com/Cognitohazard/ltspice-mcp)          | LTspice/NGspice 电路仿真 MCP server：AI 驱动电路设计、仿真、蒙特卡洛分析、波形测量         | [Cognitohazard](https://github.com/Cognitohazard) | 18   |
 
 #### 机器人
 
 | MCP Server                                                                  | 描述                                                                                                               | 来源                                          | Star |
 | --------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ | --------------------------------------------- | ---- |
-| [stack-chan](https://github.com/stack-chan/stack-chan)                      | Stack-chan MCP server：M5Stack 嵌入式机器人，JavaScript 驱动，MCP 自然语言控制                                     | [stack-chan](https://github.com/stack-chan)   | 1576 |
-| [ros-mcp-server](https://github.com/robotmcp/ros-mcp-server)                | ROS MCP server：连接 LLM 与机器人，支持 ROS 1/2                                                                    | [robotmcp](https://github.com/robotmcp)       | 1334 |
+| [stack-chan](https://github.com/stack-chan/stack-chan)                      | Stack-chan MCP server：M5Stack 嵌入式机器人，JavaScript 驱动，MCP 自然语言控制                                     | [stack-chan](https://github.com/stack-chan)   | 1588 |
+| [ros-mcp-server](https://github.com/robotmcp/ros-mcp-server)                | ROS MCP server：连接 LLM 与机器人，支持 ROS 1/2                                                                    | [robotmcp](https://github.com/robotmcp)       | 1342 |
 | [isaac-sim-mcp](https://github.com/omni-mcp/isaac-sim-mcp)                  | NVIDIA Isaac Sim MCP server：AI 驱动机器人仿真，自然语言控制 Isaac Sim/Lab/OpenUSD                                 | [omni-mcp](https://github.com/omni-mcp)       | 180  |
-| [agenticros](https://github.com/agenticros/agenticros)                      | ROS 2 机器人 AI agent 集成平台：MCP server + OpenClaw/Claude/Gemini 多平台适配，自然语言控制机器人感知、推理、动作 | [agenticros](https://github.com/agenticros)   | 112  |
+| [agenticros](https://github.com/agenticros/agenticros)                      | ROS 2 机器人 AI agent 集成平台：MCP server + OpenClaw/Claude/Gemini 多平台适配，自然语言控制机器人感知、推理、动作 | [agenticros](https://github.com/agenticros)   | 115  |
 | [ros2_mcp](https://github.com/wise-vision/ros2_mcp)                         | ROS 2 MCP server：AI agent 直连机器人系统                                                                          | [wise-vision](https://github.com/wise-vision) | 83   |
 | [unitree-go2-mcp-server](https://github.com/lpigeon/unitree-go2-mcp-server) | Unitree Go2 四足机器人 MCP server，基于 ROS 2 控制运动/传感器                                                      | [lpigeon](https://github.com/lpigeon)         | 85   |
 | [nav2_mcp_server](https://github.com/ajtudela/nav2_mcp_server)              | ROS 2 Nav2 MCP server：AI 控制导航栈                                                                               | [ajtudela](https://github.com/ajtudela)       | 81   |
@@ -120,29 +120,29 @@
 
 | MCP Server                                                            | 描述                                           | 来源                                  | Star |
 | --------------------------------------------------------------------- | ---------------------------------------------- | ------------------------------------- | ---- |
-| [openfoam-mcp-server](https://github.com/webworn/openfoam-mcp-server) | OpenFOAM MCP server：LLM 驱动 CFD 流体仿真教学 | [webworn](https://github.com/webworn) | 107  |
+| [openfoam-mcp-server](https://github.com/webworn/openfoam-mcp-server) | OpenFOAM MCP server：LLM 驱动 CFD 流体仿真教学 | [webworn](https://github.com/webworn) | 110  |
 | [stk-mcp](https://github.com/alti3/stk-mcp)                           | Ansys STK MCP server：数字任务工程仿真         | [alti3](https://github.com/alti3)     | 40   |
 
 #### 土木 / 结构 / BIM
 
 | MCP Server                                                                                          | 描述                                                                                          | 来源                                                              | Star |
 | --------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- | ---- |
-| [ifc-lite](https://github.com/LTplus-AG/ifc-lite)                                                   | IFC/AEC 工具包：解析、查询、编辑、导出 IFC/IDS/BCF/点云，含 MCP server 和 WebGPU 3D 查看器    | [LTplus-AG](https://github.com/LTplus-AG)                         | 261  |
-| [mcp-servers-for-revit](https://github.com/mcp-servers-for-revit/mcp-servers-for-revit)             | Revit MCP server（TypeScript）：26+ 工具，AI 驱动 Revit 建模自动化，支持 Revit 2020-2026      | [mcp-servers-for-revit](https://github.com/mcp-servers-for-revit) | 229  |
-| [mcp-server-for-revit-python](https://github.com/mcp-servers-for-revit/mcp-server-for-revit-python) | Revit MCP server（Python/pyRevit）：pyRevit Routes REST API 桥接 Revit 与 AI agent，18 个工具 | [mcp-servers-for-revit](https://github.com/mcp-servers-for-revit) | 143  |
-| [cordyceps](https://github.com/brookstalley/cordyceps)                                              | Grasshopper MCP Bridge：Claude 控制 Rhino/Grasshopper 参数化设计画布和渲染工具                | [brookstalley](https://github.com/brookstalley)                   | 80   |
-| [ifc-bonsai-mcp](https://github.com/Show2Instruct/ifc-bonsai-mcp)                                   | IFC BIM MCP server：50+ 工具，连接 AI 与 Blender Bonsai 插件，自然语言创建/编辑 IFC 元素      | [Show2Instruct](https://github.com/Show2Instruct)                 | 52   |
-| [RevitMCP](https://github.com/oakplank/RevitMCP)                                                    | Revit MCP server（pyRevit）：模型查询、视图控制、元素操作，pyRevit Routes 桥接                | [oakplank](https://github.com/oakplank)                           | 48   |
-| [tekla_mcp_server](https://github.com/teknovizier/tekla_mcp_server)                                 | Tekla Structures MCP server：工具化建模自动化，支持选择、组件插入、属性管理、视图操作         | [teknovizier](https://github.com/teknovizier)                     | 40   |
-| [Autodesk-Revit-MCP-Server](https://github.com/Sam-AEC/Autodesk-Revit-MCP-Server)                   | Revit MCP server（C#/.NET）：100+ 工具覆盖几何、视图、族、MEP、结构，支持 Revit 2024-2026     | [Sam-AEC](https://github.com/Sam-AEC)                             | 40   |
+| [ifc-lite](https://github.com/LTplus-AG/ifc-lite)                                                   | IFC/AEC 工具包：解析、查询、编辑、导出 IFC/IDS/BCF/点云，含 MCP server 和 WebGPU 3D 查看器    | [LTplus-AG](https://github.com/LTplus-AG)                         | 267  |
+| [mcp-servers-for-revit](https://github.com/mcp-servers-for-revit/mcp-servers-for-revit)             | Revit MCP server（TypeScript）：26+ 工具，AI 驱动 Revit 建模自动化，支持 Revit 2020-2026      | [mcp-servers-for-revit](https://github.com/mcp-servers-for-revit) | 237  |
+| [mcp-server-for-revit-python](https://github.com/mcp-servers-for-revit/mcp-server-for-revit-python) | Revit MCP server（Python/pyRevit）：pyRevit Routes REST API 桥接 Revit 与 AI agent，18 个工具 | [mcp-servers-for-revit](https://github.com/mcp-servers-for-revit) | 147  |
+| [cordyceps](https://github.com/brookstalley/cordyceps)                                              | Grasshopper MCP Bridge：Claude 控制 Rhino/Grasshopper 参数化设计画布和渲染工具                | [brookstalley](https://github.com/brookstalley)                   | 82   |
+| [ifc-bonsai-mcp](https://github.com/Show2Instruct/ifc-bonsai-mcp)                                   | IFC BIM MCP server：50+ 工具，连接 AI 与 Blender Bonsai 插件，自然语言创建/编辑 IFC 元素      | [Show2Instruct](https://github.com/Show2Instruct)                 | 53   |
+| [RevitMCP](https://github.com/oakplank/RevitMCP)                                                    | Revit MCP server（pyRevit）：模型查询、视图控制、元素操作，pyRevit Routes 桥接                | [oakplank](https://github.com/oakplank)                           | 49   |
+| [tekla_mcp_server](https://github.com/teknovizier/tekla_mcp_server)                                 | Tekla Structures MCP server：工具化建模自动化，支持选择、组件插入、属性管理、视图操作         | [teknovizier](https://github.com/teknovizier)                     | 41   |
+| [Autodesk-Revit-MCP-Server](https://github.com/Sam-AEC/Autodesk-Revit-MCP-Server)                   | Revit MCP server（C#/.NET）：100+ 工具覆盖几何、视图、族、MEP、结构，支持 Revit 2024-2026     | [Sam-AEC](https://github.com/Sam-AEC)                             | 41   |
 | [RevitMCPBridge2026](https://github.com/WeberG619/RevitMCPBridge2026)                               | Revit MCP bridge（C#）：705+ MCP 端点，AI 全读写 Revit，BIM Ops Studio 开源项目               | [WeberG619](https://github.com/WeberG619)                         | 22   |
 
 #### 能源 / 电力 / 电池
 
 | MCP Server                                                   | 描述                                                          | 来源                                          | Star |
 | ------------------------------------------------------------ | ------------------------------------------------------------- | --------------------------------------------- | ---- |
-| [PowerMCP](https://github.com/Power-Agent/PowerMCP)          | 电力系统 MCP 服务器集合：PowerWorld、PSSE、OpenDSS 等仿真工具 | [Power-Agent](https://github.com/Power-Agent) | 177  |
-| [EnergyPlus-MCP](https://github.com/LBNL-ETA/EnergyPlus-MCP) | EnergyPlus 建筑能耗模拟 MCP，LBNL 官方项目                    | [LBNL-ETA](https://github.com/LBNL-ETA)       | 99   |
+| [PowerMCP](https://github.com/Power-Agent/PowerMCP)          | 电力系统 MCP 服务器集合：PowerWorld、PSSE、OpenDSS 等仿真工具 | [Power-Agent](https://github.com/Power-Agent) | 179  |
+| [EnergyPlus-MCP](https://github.com/LBNL-ETA/EnergyPlus-MCP) | EnergyPlus 建筑能耗模拟 MCP，LBNL 官方项目                    | [LBNL-ETA](https://github.com/LBNL-ETA)       | 103  |
 
 #### 油藏 / 石油
 
@@ -154,41 +154,41 @@
 
 | MCP Server                                                        | 描述                                                              | 来源                                          | Star |
 | ----------------------------------------------------------------- | ----------------------------------------------------------------- | --------------------------------------------- | ---- |
-| [thingsboard-mcp](https://github.com/thingsboard/thingsboard-mcp) | ThingsBoard MCP server：连接工业 IoT 平台，设备管理、遥测数据查询 | [thingsboard](https://github.com/thingsboard) | 98   |
+| [thingsboard-mcp](https://github.com/thingsboard/thingsboard-mcp) | ThingsBoard MCP server：连接工业 IoT 平台，设备管理、遥测数据查询 | [thingsboard](https://github.com/thingsboard) | 99   |
 | [opcua-mcp](https://github.com/kukapay/opcua-mcp)                 | OPC UA MCP server：连接工业自动化系统，实时监控和控制运行数据     | [kukapay](https://github.com/kukapay)         | 28   |
-| [modbus-mcp](https://github.com/kukapay/modbus-mcp)               | Modbus MCP server：标准化工业 Modbus 数据，供 AI agent 调用       | [kukapay](https://github.com/kukapay)         | 26   |
+| [modbus-mcp](https://github.com/kukapay/modbus-mcp)               | Modbus MCP server：标准化工业 Modbus 数据，供 AI agent 调用       | [kukapay](https://github.com/kukapay)         | 25   |
 | [twincat-mcp](https://github.com/eponce00/twincat-mcp)            | TwinCAT MCP server：连接 Beckhoff PLC，构建/部署/监控自动化项目   | [eponce00](https://github.com/eponce00)       | 23   |
 
 #### 嵌入式 / 硬件
 
 | MCP Server                                                                    | 描述                                                              | 来源                                          | Star |
 | ----------------------------------------------------------------------------- | ----------------------------------------------------------------- | --------------------------------------------- | ---- |
-| [esp-mcp](https://github.com/horw/esp-mcp)                                    | ESP32 开发 MCP server：集中管理 ESP-IDF 命令，简化嵌入式开发入门  | [horw](https://github.com/horw)               | 153  |
-| [embedded-debugger-mcp](https://github.com/Adancurusul/embedded-debugger-mcp) | 嵌入式调试 MCP server：支持 ARM Cortex-M、RISC-V 的 probe-rs 调试 | [Adancurusul](https://github.com/Adancurusul) | 122  |
+| [esp-mcp](https://github.com/horw/esp-mcp)                                    | ESP32 开发 MCP server：集中管理 ESP-IDF 命令，简化嵌入式开发入门  | [horw](https://github.com/horw)               | 154  |
+| [embedded-debugger-mcp](https://github.com/Adancurusul/embedded-debugger-mcp) | 嵌入式调试 MCP server：支持 ARM Cortex-M、RISC-V 的 probe-rs 调试 | [Adancurusul](https://github.com/Adancurusul) | 123  |
 
 #### 半导体 / VLSI / FPGA
 
 | MCP Server                                                        | 描述                                                                               | 来源                                                              | Star |
 | ----------------------------------------------------------------- | ---------------------------------------------------------------------------------- | ----------------------------------------------------------------- | ---- |
-| [vivado-mcp](https://github.com/mapleleavessssssss-wq/vivado-mcp) | Vivado MCP Server：AI 驱动 FPGA 开发，CRITICAL WARNING 诊断                        | [mapleleavessssssss-wq](https://github.com/mapleleavessssssss-wq) | 66   |
-| [SynthPilot](https://github.com/LNC0831/SynthPilot)               | Vivado MCP server：500+ 工具覆盖全流程 FPGA 开发，含 oh-my-fpga 方法论层，本地运行 | [LNC0831](https://github.com/LNC0831)                             | 48   |
+| [vivado-mcp](https://github.com/mapleleavessssssss-wq/vivado-mcp) | Vivado MCP Server：AI 驱动 FPGA 开发，CRITICAL WARNING 诊断                        | [mapleleavessssssss-wq](https://github.com/mapleleavessssssss-wq) | 73   |
+| [SynthPilot](https://github.com/LNC0831/SynthPilot)               | Vivado MCP server：500+ 工具覆盖全流程 FPGA 开发，含 oh-my-fpga 方法论层，本地运行 | [LNC0831](https://github.com/LNC0831)                             | 50   |
 
 #### 生物医学 / 医疗
 
 | MCP Server                                                                                | 描述                                                                                            | 来源                                                | Star |
 | ----------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | --------------------------------------------------- | ---- |
-| [biomcp](https://github.com/genomoncology/biomcp)                                         | BioMCP：单查询多源生物医学数据搜索（PubMed、临床试验、变异信息、本地分析）                      | [genomoncology](https://github.com/genomoncology)   | 544  |
-| [mcp-simple-pubmed](https://github.com/andybrandt/mcp-simple-pubmed)                      | PubMed MCP server：搜索和查询医学文献数据库                                                     | [andybrandt](https://github.com/andybrandt)         | 168  |
-| [fhir-mcp-server](https://github.com/wso2/fhir-mcp-server)                                | FHIR MCP server：将任意 FHIR Server/API 暴露为 MCP server，WSO2 官方项目                        | [wso2](https://github.com/wso2)                     | 127  |
-| [healthcare-mcp-public](https://github.com/Cicatriiz/healthcare-mcp-public)               | Healthcare MCP server：访问 FDA、PubMed、临床试验、ICD-10、DICOM 等医疗数据                     | [Cicatriiz](https://github.com/Cicatriiz)           | 117  |
+| [biomcp](https://github.com/genomoncology/biomcp)                                         | BioMCP：单查询多源生物医学数据搜索（PubMed、临床试验、变异信息、本地分析）                      | [genomoncology](https://github.com/genomoncology)   | 547  |
+| [mcp-simple-pubmed](https://github.com/andybrandt/mcp-simple-pubmed)                      | PubMed MCP server：搜索和查询医学文献数据库                                                     | [andybrandt](https://github.com/andybrandt)         | 169  |
+| [fhir-mcp-server](https://github.com/wso2/fhir-mcp-server)                                | FHIR MCP server：将任意 FHIR Server/API 暴露为 MCP server，WSO2 官方项目                        | [wso2](https://github.com/wso2)                     | 129  |
+| [healthcare-mcp-public](https://github.com/Cicatriiz/healthcare-mcp-public)               | Healthcare MCP server：访问 FDA、PubMed、临床试验、ICD-10、DICOM 等医疗数据                     | [Cicatriiz](https://github.com/Cicatriiz)           | 121  |
 | [pubmed-mcp-server](https://github.com/cyanheads/pubmed-mcp-server)                       | PubMed/Europe PMC MCP server：文献搜索、全文获取、引用分析、MeSH 术语，STDIO/HTTP               | [cyanheads](https://github.com/cyanheads)           | 121  |
-| [medical-mcp](https://github.com/JamesANZ/medical-mcp)                                    | Medical MCP server：FDA/WHO/PubMed/RxNorm/Google Scholar 多源医疗数据聚合，本地运行零配置       | [JamesANZ](https://github.com/JamesANZ)             | 102  |
-| [dicom-mcp](https://github.com/ChristianHinge/dicom-mcp)                                  | DICOM MCP server：连接 PACS 等 DICOM 服务器，查询/读取/移动医学影像和报告                       | [ChristianHinge](https://github.com/ChristianHinge) | 100  |
+| [medical-mcp](https://github.com/JamesANZ/medical-mcp)                                    | Medical MCP server：FDA/WHO/PubMed/RxNorm/Google Scholar 多源医疗数据聚合，本地运行零配置       | [JamesANZ](https://github.com/JamesANZ)             | 103  |
+| [dicom-mcp](https://github.com/ChristianHinge/dicom-mcp)                                  | DICOM MCP server：连接 PACS 等 DICOM 服务器，查询/读取/移动医学影像和报告                       | [ChristianHinge](https://github.com/ChristianHinge) | 99   |
 | [clinicaltrialsgov-mcp-server](https://github.com/cyanheads/clinicaltrialsgov-mcp-server) | ClinicalTrials.gov MCP server：577K 试验搜索、高级字段过滤、患者匹配、研究详情详解              | [cyanheads](https://github.com/cyanheads)           | 81   |
-| [m3](https://github.com/rafiattrach/m3)                                                   | MIMIC-IV 医疗数据 MCP server：自然语言查询重症监护数据库（DuckDB/BigQuery）                     | [rafiattrach](https://github.com/rafiattrach)       | 73   |
+| [m3](https://github.com/rafiattrach/m3)                                                   | MIMIC-IV 医疗数据 MCP server：自然语言查询重症监护数据库（DuckDB/BigQuery）                     | [rafiattrach](https://github.com/rafiattrach)       | 74   |
 | [pyomop](https://github.com/dermatologist/pyomop)                                         | OMOP CDM 数据管理 Python 包：SQLite/PostgreSQL/MySQL 支持，含 MCP server 和 LLM 集成            | [dermatologist](https://github.com/dermatologist)   | 64   |
 | [ChatSpatial](https://github.com/cafferychen777/ChatSpatial)                              | 空间转录组学 MCP server：自然语言驱动的空间分析（Scanpy/Squidpy），含 bioRxiv 论文              | [cafferychen777](https://github.com/cafferychen777) | 40   |
-| [encode-toolkit](https://github.com/ammawla/encode-toolkit)                               | ENCODE 基因组学 MCP server：搜索、下载、分析功能基因组实验数据                                  | [ammawla](https://github.com/ammawla)               | 36   |
+| [encode-toolkit](https://github.com/ammawla/encode-toolkit)                               | ENCODE 基因组学 MCP server：搜索、下载、分析功能基因组实验数据                                  | [ammawla](https://github.com/ammawla)               | 37   |
 | [omop_mcp](https://github.com/OHNLP/omop_mcp)                                             | OMOP 临床术语映射 MCP server：用 LLM 将临床术语映射到 OMOP CDM 概念，OHDSI 生态                 | [OHNLP](https://github.com/OHNLP)                   | 38   |
 | [medical-mcps](https://github.com/pascalwhoop/medical-mcps)                               | 生物医学 MCP server：100+ 工具，集成 Reactome/KEGG/UniProt/ChEMBL/PubMed/OpenFDA 等 14 个数据库 | [pascalwhoop](https://github.com/pascalwhoop)       | 22   |
 
@@ -196,19 +196,19 @@
 
 | MCP Server                                                        | 描述                                                                                           | 来源                                              | Star |
 | ----------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ------------------------------------------------- | ---- |
-| [autocad-mcp](https://github.com/puran-water/autocad-mcp)         | AutoCAD MCP server：面向水处理工程的 P&ID 图纸自动化，支持 AutoLISP 执行                       | [puran-water](https://github.com/puran-water)     | 375  |
-| [weather-mcp-server](https://github.com/ezh0v/weather-mcp-server) | 轻量级天气数据 MCP server：AI 助手实时获取和解读天气数据，Go 实现，SSE 传输                    | [ezh0v](https://github.com/ezh0v)                 | 247  |
+| [autocad-mcp](https://github.com/puran-water/autocad-mcp)         | AutoCAD MCP server：面向水处理工程的 P&ID 图纸自动化，支持 AutoLISP 执行                       | [puran-water](https://github.com/puran-water)     | 390  |
+| [weather-mcp-server](https://github.com/ezh0v/weather-mcp-server) | 轻量级天气数据 MCP server：AI 助手实时获取和解读天气数据，Go 实现，SSE 传输                    | [ezh0v](https://github.com/ezh0v)                 | 246  |
 | [foehn](https://github.com/kayhendriksen/foehn)                   | MeteoSwiss 气象数据 MCP server：20+ 数据集（站点、雷达、冰雹、预报、气候），Python API/CLI/MCP | [kayhendriksen](https://github.com/kayhendriksen) | 42   |
 
 #### 综合资源
 
-| MCP Server                                                                            | 描述                                                                                     | 来源                                      | Star |
-| ------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | ----------------------------------------- | ---- |
-| [itasca-mcp](https://github.com/yusong652/itasca-mcp)                                 | ITASCA 数值模拟引擎 MCP server：PFC/FLAC/3DEC/MPoint/MassFlow，DEM/FEM 岩土与地质力学仿真  | [yusong652](https://github.com/yusong652) | 121  |
-| [us-gov-open-data-mcp](https://github.com/lzinga/us-gov-open-data-mcp)                | 美国政府开放数据 MCP server：40+ API、250+ 工具（FDA、CDC、EPA、NWS、Treasury、FRED 等） | [lzinga](https://github.com/lzinga)       | 103  |
-| [awesome-ai-cae](https://github.com/kimimgo/awesome-ai-cae)                           | 113 个 AI-ready CAE 工具精选：CFD、FEA、SPH、DEM                                         | [kimimgo](https://github.com/kimimgo)     | 37   |
-| [LabVIEW-MCP-Server-Toolkit](https://github.com/JanGoebel/LabVIEW-MCP-Server-Toolkit) | LabVIEW MCP server 工具包：从 LabVIEW VI 直接托管 MCP server，NI 测试测量集成            | [JanGoebel](https://github.com/JanGoebel) | 36   |
-| [COMSOL-Multiphysics-MCP](https://github.com/Suzy-Sa/COMSOL-Multiphysics-MCP)         | COMSOL 多物理场 MCP server：建模工作流自动化、验证、RAG 辅助仿真                         | [Suzy-Sa](https://github.com/Suzy-Sa)     | 31   |
+| MCP Server                                                                            | 描述                                                                                      | 来源                                      | Star |
+| ------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | ----------------------------------------- | ---- |
+| [itasca-mcp](https://github.com/yusong652/itasca-mcp)                                 | ITASCA 数值模拟引擎 MCP server：PFC/FLAC/3DEC/MPoint/MassFlow，DEM/FEM 岩土与地质力学仿真 | [yusong652](https://github.com/yusong652) | 124  |
+| [us-gov-open-data-mcp](https://github.com/lzinga/us-gov-open-data-mcp)                | 美国政府开放数据 MCP server：40+ API、250+ 工具（FDA、CDC、EPA、NWS、Treasury、FRED 等）  | [lzinga](https://github.com/lzinga)       | 103  |
+| [awesome-ai-cae](https://github.com/kimimgo/awesome-ai-cae)                           | 113 个 AI-ready CAE 工具精选：CFD、FEA、SPH、DEM                                          | [kimimgo](https://github.com/kimimgo)     | 37   |
+| [LabVIEW-MCP-Server-Toolkit](https://github.com/JanGoebel/LabVIEW-MCP-Server-Toolkit) | LabVIEW MCP server 工具包：从 LabVIEW VI 直接托管 MCP server，NI 测试测量集成             | [JanGoebel](https://github.com/JanGoebel) | 39   |
+| [COMSOL-Multiphysics-MCP](https://github.com/Suzy-Sa/COMSOL-Multiphysics-MCP)         | COMSOL 多物理场 MCP server：建模工作流自动化、验证、RAG 辅助仿真                          | [Suzy-Sa](https://github.com/Suzy-Sa)     | 31   |
 
 > 自动更新：每天 09:00 扫描 GitHub，发现新的高星工程 agent skill 自动添加到上表。
 
