@@ -38,6 +38,7 @@
 | Skill | 描述 | 来源 | Star |
 | ---- | ---- | ---- | ---- |
 | [text-to-cad](https://github.com/earthtojake/text-to-cad)                                                                      | Agent skills 合集：CAD、机器人、硬件设计的自然语言驱动                               | [earthtojake](https://github.com/earthtojake)                       | 7614 |
+| [automotive-skills-suite](https://github.com/jherrodthomas/automotive-skills-suite) | 152+ Claude skills for automotive engineering: ISO 26262 functional safety, ISO/SAE 21434 cybersecurity, ISO 21448 SOTIF, AIAG-VDA quality (APQP/PPAP/FMEA), Automotive SPICE, AUTOSAR, CAN/LIN/Ethernet — every builder paired with a confirmation reviewer | [jherrodthomas](https://github.com/jherrodthomas) | 2144 |
 | [medical-research-skills](https://github.com/aipoch/medical-research-skills) | Hundreds of agent skills for medical research, covering protocol design, data analysis, evidence insights, and academic writing | [aipoch](https://github.com/aipoch) | 1337 |
 | [ClawBio](https://github.com/ClawBio/ClawBio) | First bioinformatics-native AI agent skill library for reproducible, local-first bioinformatics workflows | [ClawBio](https://github.com/ClawBio) | 1032 |
 | [bioSkills](https://github.com/GPTomics/bioSkills) | Set of SKILL.md files for doing bioinformatics with AI agents — alignment, variant calling, single-cell, and more | [GPTomics](https://github.com/GPTomics) | 1002 |
@@ -284,6 +285,7 @@ MIT License — 自由使用、修改和分发。n="center">
   <img src="docs/logo.svg" alt="Engineering Skill Hub" width="600">
 | [blender-mcp](https://github.com/ahujasid/blender-mcp)                                       | Blender MCP server：AI 驱动 3D 建模、渲染、动画，支持场景操作和脚本化                            | [ahujasid](https://github.com/ahujasid)             | 23779 |
 | [text-to-cad](https://github.com/earthtojake/text-to-cad)                                                                      | Agent skills 合集：CAD、机器人、硬件设计的自然语言驱动                               | [earthtojake](https://github.com/earthtojake)                       | 7614 |
+| [automotive-skills-suite](https://github.com/jherrodthomas/automotive-skills-suite) | 152+ Claude skills for automotive engineering: ISO 26262 functional safety, ISO/SAE 21434 cybersecurity, ISO 21448 SOTIF, AIAG-VDA quality (APQP/PPAP/FMEA), Automotive SPICE, AUTOSAR, CAN/LIN/Ethernet — every builder paired with a confirmation reviewer | [jherrodthomas](https://github.com/jherrodthomas) | 2144 |
 | [stack-chan](https://github.com/stack-chan/stack-chan)                      | Stack-chan MCP server：M5Stack 嵌入式机器人，JavaScript 驱动，MCP 自然语言控制                                     | [stack-chan](https://github.com/stack-chan)   | 1588 |
 | [KiCAD-MCP-Server](https://github.com/mixelpixx/KiCAD-MCP-Server)    | KiCAD MCP server：122 项工具，16 类 PCB 自动化（原理图、布局、DFM、Gerber）                | [mixelpixx](https://github.com/mixelpixx)         | 1513 |
 | [ros-mcp-server](https://github.com/robotmcp/ros-mcp-server)                | ROS MCP server：连接 LLM 与机器人，支持 ROS 1/2                                                                    | [robotmcp](https://github.com/robotmcp)       | 1342 |
