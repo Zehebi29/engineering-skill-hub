@@ -31,6 +31,9 @@
 | [engineering-paper-digest](skills/engineering-paper-digest/SKILL.md) | 工程论文速读：URL/DOI/标题 -> 结构化中文摘要（方法、结果、局限性）       | `research` `paper-reading` `digest`       | Hermes / OpenClaw |
 | [patent-landscape](skills/patent-landscape/SKILL.md)                 | 工程领域专利态势分析：技术趋势、主要申请人、技术分类、代表性专利、空白点 | `research` `patent` `innovation`          | Hermes / OpenClaw |
 
+<details>
+<summary>📋 社区精选 Skills（72 个，点击展开）</summary>
+
 ### 社区精选 Skills
 
 来自社区的高质量工程相关 agent skill（prompt 模板）
@@ -59,6 +62,11 @@
 | [geoscience-skills](https://github.com/SteadfastAsArt/geoscience-skills)                                                       | 30 个 AI-powered 地学技能集合：地震、测井、3D 建模、反演、地统计学、空间回归、NetCDF | [SteadfastAsArt](https://github.com/SteadfastAsArt)                 | 35   |
 | [veriloga-skills](https://github.com/Arcadia-1/veriloga-skills)                                                                             | Agent skills for Verilog-A analog/mixed-signal IC design — Cadence Virtuoso conventions, 12 circuit categories, 1809 design pattern references | [Arcadia-1](https://github.com/Arcadia-1)                             | 24   |
 | [hls-generator](https://github.com/Eriemon/hls-generator)                                                                     | Agent skill：AMD/Xilinx Vitis HLS C/C++ 高级综合工作流，含设计、仿真、优化、验证     | [Eriemon](https://github.com/Eriemon)                               | 20   |
+
+</details>
+
+<details>
+<summary>🔧 社区精选 MCP Servers（180+ 个，点击展开）</summary>
 
 ### 社区精选 MCP Servers
 
@@ -219,6 +227,8 @@
 > 自动更新：每天 09:00 扫描 GitHub，发现新的高星工程 agent skill 自动添加到上表。
 
 持续更新中。欢迎 [贡献新 skill](CONTRIBUTING.md)。
+
+</details>
 
 ## 快速使用
 
