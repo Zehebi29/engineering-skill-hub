@@ -32,7 +32,7 @@
 | [patent-landscape](skills/patent-landscape/SKILL.md)                 | 工程领域专利态势分析：技术趋势、主要申请人、技术分类、代表性专利、空白点 | `research` `patent` `innovation`          | Hermes / OpenClaw |
 
 <details>
-<summary>📋 社区精选 Skills（72 个，点击展开）</summary>
+<summary>📋 社区精选 Skills（74 个，点击展开）</summary>
 
 ### 社区精选 Skills
 
@@ -60,6 +60,8 @@
 | [PowerSkills](https://github.com/Power-Agent/PowerSkills) | Agent Skills for power system analysis: specialized knowledge and instructions for power system simulations, analysis, and optimization using PowerWorld, PSSE, OpenDSS, and other tools | [Power-Agent](https://github.com/Power-Agent) | 55 |
 | [healthcare-agents](https://github.com/ajhcs/healthcare-agents) | Portable SKILL.md pack with 51 specialist AI agents for US healthcare administration workflows | [ajhcs](https://github.com/ajhcs) | 44 |
 | [geoscience-skills](https://github.com/SteadfastAsArt/geoscience-skills)                                                       | 30 个 AI-powered 地学技能集合：地震、测井、3D 建模、反演、地统计学、空间回归、NetCDF | [SteadfastAsArt](https://github.com/SteadfastAsArt)                 | 35   |
+| [sap-engineering-skill](https://github.com/shrek-abaper/sap-engineering-skill) | SKILL-spec agent skills for SAP ABAP engineering: ADT-based code read/write, security & quality review, transport release gating — SAP ERP lifecycle automation | [shrek-abaper](https://github.com/shrek-abaper) | 25 |
+| [meddev-agent-skills](https://github.com/AminAlam/meddev-agent-skills) | Modular SKILL.md files for AI coding agents working on medical device software — IEC 62304, architecture, CI/CD, firmware, connectivity, regulatory | [AminAlam](https://github.com/AminAlam) | 24 |
 | [veriloga-skills](https://github.com/Arcadia-1/veriloga-skills)                                                                             | Agent skills for Verilog-A analog/mixed-signal IC design — Cadence Virtuoso conventions, 12 circuit categories, 1809 design pattern references | [Arcadia-1](https://github.com/Arcadia-1)                             | 24   |
 | [hls-generator](https://github.com/Eriemon/hls-generator)                                                                     | Agent skill：AMD/Xilinx Vitis HLS C/C++ 高级综合工作流，含设计、仿真、优化、验证     | [Eriemon](https://github.com/Eriemon)                               | 20   |
 
@@ -397,6 +399,8 @@ MIT License — 自由使用、修改和分发。n="center">
 | [twincat-mcp](https://github.com/eponce00/twincat-mcp)            | TwinCAT MCP server：连接 Beckhoff PLC，构建/部署/监控自动化项目   | [eponce00](https://github.com/eponce00)       | 23   |
 | [RevitMCPBridge2026](https://github.com/WeberG619/RevitMCPBridge2026)                               | Revit MCP bridge（C#）：705+ MCP 端点，AI 全读写 Revit，BIM Ops Studio 开源项目               | [WeberG619](https://github.com/WeberG619)                         | 22   |
 | [medical-mcps](https://github.com/pascalwhoop/medical-mcps)                               | 生物医学 MCP server：100+ 工具，集成 Reactome/KEGG/UniProt/ChEMBL/PubMed/OpenFDA 等 14 个数据库 | [pascalwhoop](https://github.com/pascalwhoop)       | 22   |
+| [sap-engineering-skill](https://github.com/shrek-abaper/sap-engineering-skill) | SKILL-spec agent skills for SAP ABAP engineering: ADT-based code read/write, security & quality review, transport release gating — SAP ERP lifecycle automation | [shrek-abaper](https://github.com/shrek-abaper) | 25 |
+| [meddev-agent-skills](https://github.com/AminAlam/meddev-agent-skills) | Modular SKILL.md files for AI coding agents working on medical device software — IEC 62304, architecture, CI/CD, firmware, connectivity, regulatory | [AminAlam](https://github.com/AminAlam) | 24 |
 | [hls-generator](https://github.com/Eriemon/hls-generator)                                                                     | Agent skill：AMD/Xilinx Vitis HLS C/C++ 高级综合工作流，含设计、仿真、优化、验证     | [Eriemon](https://github.com/Eriemon)                               | 20   |
 | [ansys-aedt-mcp](https://github.com/LaplaceYoung/ansys-aedt-mcp)     | Ansys AEDT MCP server：HFSS/Maxwell/Q3D/Icepak/Circuit 电磁仿真自动化，PyAEDT + 原生 API   | [LaplaceYoung](https://github.com/LaplaceYoung)   | 20   |
 | [ltspice-mcp](https://github.com/Cognitohazard/ltspice-mcp)          | LTspice/NGspice 电路仿真 MCP server：AI 驱动电路设计、仿真、蒙特卡洛分析、波形测量         | [Cognitohazard](https://github.com/Cognitohazard) | 18   |
