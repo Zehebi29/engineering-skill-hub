@@ -215,6 +215,7 @@
 | [autocad-mcp](https://github.com/puran-water/autocad-mcp)         | AutoCAD MCP server：面向水处理工程的 P&ID 图纸自动化，支持 AutoLISP 执行                       | [puran-water](https://github.com/puran-water)     | 390  |
 | [weather-mcp-server](https://github.com/ezh0v/weather-mcp-server) | 轻量级天气数据 MCP server：AI 助手实时获取和解读天气数据，Go 实现，SSE 传输                    | [ezh0v](https://github.com/ezh0v)                 | 246  |
 | [foehn](https://github.com/kayhendriksen/foehn)                   | MeteoSwiss 气象数据 MCP server：20+ 数据集（站点、雷达、冰雹、预报、气候），Python API/CLI/MCP | [kayhendriksen](https://github.com/kayhendriksen) | 42   |
+| [agentic-swmm-workflow](https://github.com/Zhonghao1995/agentic-swmm-workflow) | Agentic SWMM MCP server：EPA SWMM 暴雨管理模型自动化，QGIS 集成、可复现水文模拟、校准支持、MCP 接口 | [Zhonghao1995](https://github.com/Zhonghao1995) | 20   |
 
 #### 综合资源
 
@@ -401,6 +402,7 @@ MIT License — 自由使用、修改和分发。n="center">
 | [medical-mcps](https://github.com/pascalwhoop/medical-mcps)                               | 生物医学 MCP server：100+ 工具，集成 Reactome/KEGG/UniProt/ChEMBL/PubMed/OpenFDA 等 14 个数据库 | [pascalwhoop](https://github.com/pascalwhoop)       | 22   |
 | [sap-engineering-skill](https://github.com/shrek-abaper/sap-engineering-skill) | SKILL-spec agent skills for SAP ABAP engineering: ADT-based code read/write, security & quality review, transport release gating — SAP ERP lifecycle automation | [shrek-abaper](https://github.com/shrek-abaper) | 25 |
 | [meddev-agent-skills](https://github.com/AminAlam/meddev-agent-skills) | Modular SKILL.md files for AI coding agents working on medical device software — IEC 62304, architecture, CI/CD, firmware, connectivity, regulatory | [AminAlam](https://github.com/AminAlam) | 24 |
+| [agentic-swmm-workflow](https://github.com/Zhonghao1995/agentic-swmm-workflow)                             | Agentic SWMM MCP server：EPA SWMM 暴雨管理模型自动化，QGIS 集成、可复现水文模拟、校准支持、MCP 接口                | [Zhonghao1995](https://github.com/Zhonghao1995)                   | 20    |
 | [hls-generator](https://github.com/Eriemon/hls-generator)                                                                     | Agent skill：AMD/Xilinx Vitis HLS C/C++ 高级综合工作流，含设计、仿真、优化、验证     | [Eriemon](https://github.com/Eriemon)                               | 20   |
 | [ansys-aedt-mcp](https://github.com/LaplaceYoung/ansys-aedt-mcp)     | Ansys AEDT MCP server：HFSS/Maxwell/Q3D/Icepak/Circuit 电磁仿真自动化，PyAEDT + 原生 API   | [LaplaceYoung](https://github.com/LaplaceYoung)   | 20   |
 | [ltspice-mcp](https://github.com/Cognitohazard/ltspice-mcp)          | LTspice/NGspice 电路仿真 MCP server：AI 驱动电路设计、仿真、蒙特卡洛分析、波形测量         | [Cognitohazard](https://github.com/Cognitohazard) | 18   |
