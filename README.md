@@ -32,7 +32,7 @@
 | [patent-landscape](skills/patent-landscape/SKILL.md)                 | 工程领域专利态势分析：技术趋势、主要申请人、技术分类、代表性专利、空白点 | `research` `patent` `innovation`          | Hermes / OpenClaw |
 
 <details>
-<summary>📋 社区精选 Skills（75 个，点击展开）</summary>
+<summary>📋 社区精选 Skills（76 个，点击展开）</summary>
 
 ### 社区精选 Skills
 
@@ -59,6 +59,7 @@
 | [night_owl_research_agent](https://github.com/GRIND-Lab-Core/night_owl_research_agent)                                         | NORA：地学/遥感/GIS 全自动 AI 研究 Agent，含 GeoBenchmark、期刊模板、MCP server                                                                                                                                                                              | [GRIND-Lab-Core](https://github.com/GRIND-Lab-Core)                 | 99   |
 | [materials-simulation-skills](https://github.com/HeshamFS/materials-simulation-skills)                                         | Agent skills for computational materials science — numerical methods, solvers, meshing, convergence, simulation workflows, verification & validation                                                                                                         | [HeshamFS](https://github.com/HeshamFS)                             | 59   |
 | [PowerSkills](https://github.com/Power-Agent/PowerSkills)                                                                      | Agent Skills for power system analysis: specialized knowledge and instructions for power system simulations, analysis, and optimization using PowerWorld, PSSE, OpenDSS, and other tools                                                                     | [Power-Agent](https://github.com/Power-Agent)                       | 55   |
+| [ai-science-toolkit](https://github.com/dgilford/ai-science-toolkit) | Claude Code skills & reviewer agents for AI-first climate and atmospheric science — data analysis, model evaluation, visualization, and scientific communication workflows | [dgilford](https://github.com/dgilford) | 50 |
 | [healthcare-agents](https://github.com/ajhcs/healthcare-agents)                                                                | Portable SKILL.md pack with 51 specialist AI agents for US healthcare administration workflows                                                                                                                                                               | [ajhcs](https://github.com/ajhcs)                                   | 48   |
 | [geoscience-skills](https://github.com/SteadfastAsArt/geoscience-skills)                                                       | 30 个 AI-powered 地学技能集合：地震、测井、3D 建模、反演、地统计学、空间回归、NetCDF                                                                                                                                                                         | [SteadfastAsArt](https://github.com/SteadfastAsArt)                 | 40   |
 | [sap-engineering-skill](https://github.com/shrek-abaper/sap-engineering-skill)                                                 | SKILL-spec agent skills for SAP ABAP engineering: ADT-based code read/write, security & quality review, transport release gating — SAP ERP lifecycle automation                                                                                              | [shrek-abaper](https://github.com/shrek-abaper)                     | 25   |
@@ -70,7 +71,7 @@
 </details>
 
 <details>
-<summary>🔧 社区精选 MCP Servers（180+ 个，点击展开）</summary>
+<summary>🔧 社区精选 MCP Servers（183+ 个，点击展开）</summary>
 
 ### 社区精选 MCP Servers
 
@@ -196,6 +197,7 @@
 | MCP Server                                                                                | 描述                                                                                            | 来源                                                | Star |
 | ----------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | --------------------------------------------------- | ---- |
 | [biomcp](https://github.com/genomoncology/biomcp)                                         | BioMCP：单查询多源生物医学数据搜索（PubMed、临床试验、变异信息、本地分析）                      | [genomoncology](https://github.com/genomoncology)   | 551  |
+| [apple-health-mcp-server](https://github.com/the-momentum/apple-health-mcp-server) | Apple Health MCP server：自然语言查询 Apple Health 数据（DuckDB 引擎），覆盖心率、活动、睡眠、营养等个人健康指标 | [the-momentum](https://github.com/the-momentum) | 233 |
 | [mcp-simple-pubmed](https://github.com/andybrandt/mcp-simple-pubmed)                      | PubMed MCP server：搜索和查询医学文献数据库                                                     | [andybrandt](https://github.com/andybrandt)         | 169  |
 | [fhir-mcp-server](https://github.com/wso2/fhir-mcp-server)                                | FHIR MCP server：将任意 FHIR Server/API 暴露为 MCP server，WSO2 官方项目                        | [wso2](https://github.com/wso2)                     | 129  |
 | [healthcare-mcp-public](https://github.com/Cicatriiz/healthcare-mcp-public)               | Healthcare MCP server：访问 FDA、PubMed、临床试验、ICD-10、DICOM 等医疗数据                     | [Cicatriiz](https://github.com/Cicatriiz)           | 124  |
@@ -208,6 +210,7 @@
 | [ChatSpatial](https://github.com/cafferychen777/ChatSpatial)                              | 空间转录组学 MCP server：自然语言驱动的空间分析（Scanpy/Squidpy），含 bioRxiv 论文              | [cafferychen777](https://github.com/cafferychen777) | 40   |
 | [encode-toolkit](https://github.com/ammawla/encode-toolkit)                               | ENCODE 基因组学 MCP server：搜索、下载、分析功能基因组实验数据                                  | [ammawla](https://github.com/ammawla)               | 37   |
 | [omop_mcp](https://github.com/OHNLP/omop_mcp)                                             | OMOP 临床术语映射 MCP server：用 LLM 将临床术语映射到 OMOP CDM 概念，OHDSI 生态                 | [OHNLP](https://github.com/OHNLP)                   | 38   |
+| [HealthClawGuardrails](https://github.com/aks129/HealthClawGuardrails) | FHIR 临床数据安全 MCP server：PHI 脱敏、不可篡改审计、分级认证、租户隔离、HIPAA 合规，OpenAI/Anthropic 双兼容 | [aks129](https://github.com/aks129) | 27 |
 | [medical-mcps](https://github.com/pascalwhoop/medical-mcps)                               | 生物医学 MCP server：100+ 工具，集成 Reactome/KEGG/UniProt/ChEMBL/PubMed/OpenFDA 等 14 个数据库 | [pascalwhoop](https://github.com/pascalwhoop)       | 22   |
 
 #### 环境 / 水利
@@ -228,6 +231,7 @@
 | [awesome-ai-cae](https://github.com/kimimgo/awesome-ai-cae)                           | 113 个 AI-ready CAE 工具精选：CFD、FEA、SPH、DEM                                          | [kimimgo](https://github.com/kimimgo)     | 38   |
 | [LabVIEW-MCP-Server-Toolkit](https://github.com/JanGoebel/LabVIEW-MCP-Server-Toolkit) | LabVIEW MCP server 工具包：从 LabVIEW VI 直接托管 MCP server，NI 测试测量集成             | [JanGoebel](https://github.com/JanGoebel) | 41   |
 | [COMSOL-Multiphysics-MCP](https://github.com/Suzy-Sa/COMSOL-Multiphysics-MCP)         | COMSOL 多物理场 MCP server：建模工作流自动化、验证、RAG 辅助仿真                          | [Suzy-Sa](https://github.com/Suzy-Sa)     | 32   |
+| [data360-mcp](https://github.com/worldbank/data360-mcp) | 世界银行 Data360 平台 MCP server：搜索、验证、检索发展指标（GDP、贫困、性别、气候），World Bank 官方项目 | [worldbank](https://github.com/worldbank) | 32 |
 
 > 自动更新：每天 09:00 扫描 GitHub，发现新的高星工程 agent skill 自动添加到上表。
 
