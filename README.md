@@ -303,14 +303,3 @@ metadata:
 ## License
 
 MIT License — 自由使用、修改和分发。
-| [kicad-mcp-pro](https://github.com/oaslananka/kicad-mcp-pro)         | KiCad MCP server：PCB 和原理图自动化，DFM/SI/PI 辅助                                       | [oaslananka](https://github.com/oaslananka)       | 35   |
-| [twincat-mcp](https://github.com/eponce00/twincat-mcp)            | TwinCAT MCP server：连接 Beckhoff PLC，构建/部署/监控自动化项目   | [eponce00](https://github.com/eponce00)       | 24   |
-| [RevitMCPBridge2026](https://github.com/WeberG619/RevitMCPBridge2026)                               | Revit MCP bridge（C#）：705+ MCP 端点，AI 全读写 Revit，BIM Ops Studio 开源项目               | [WeberG619](https://github.com/WeberG619)                         | 22   |
-| [medical-mcps](https://github.com/pascalwhoop/medical-mcps)                               | 生物医学 MCP server：100+ 工具，集成 Reactome/KEGG/UniProt/ChEMBL/PubMed/OpenFDA 等 14 个数据库 | [pascalwhoop](https://github.com/pascalwhoop)       | 22   |
-| [sap-engineering-skill](https://github.com/shrek-abaper/sap-engineering-skill) | SKILL-spec agent skills for SAP ABAP engineering: ADT-based code read/write, security & quality review, transport release gating — SAP ERP lifecycle automation | [shrek-abaper](https://github.com/shrek-abaper) | 24 |
-| [meddev-agent-skills](https://github.com/AminAlam/meddev-agent-skills) | Modular SKILL.md files for AI coding agents working on medical device software — IEC 62304, architecture, CI/CD, firmware, connectivity, regulatory | [AminAlam](https://github.com/AminAlam) | 25 |
-| [agentic-swmm-workflow](https://github.com/Zhonghao1995/agentic-swmm-workflow)                             | Agentic SWMM MCP server：EPA SWMM 暴雨管理模型自动化，QGIS 集成、可复现水文模拟、校准支持、MCP 接口                | [Zhonghao1995](https://github.com/Zhonghao1995)                   | 21    |
-| [hls-generator](https://github.com/Eriemon/hls-generator)                                                                     | Agent skill：AMD/Xilinx Vitis HLS C/C++ 高级综合工作流，含设计、仿真、优化、验证     | [Eriemon](https://github.com/Eriemon)                               | 21   |
-| [autonomousguy](https://github.com/ptsilivis/autonomousguy) | AI skill prompts for embedded automotive engineers — AUTOSAR Classic/Adaptive, MISRA C, ISO 26262 functional safety, ECU debugging, 10 mode-aware skills | [ptsilivis](https://github.com/ptsilivis) | 22 |
-| [ansys-aedt-mcp](https://github.com/LaplaceYoung/ansys-aedt-mcp)     | Ansys AEDT MCP server：HFSS/Maxwell/Q3D/Icepak/Circuit 电磁仿真自动化，PyAEDT + 原生 API   | [LaplaceYoung](https://github.com/LaplaceYoung)   | 27   |
-| [ltspice-mcp](https://github.com/Cognitohazard/ltspice-mcp)          | LTspice/NGspice 电路仿真 MCP server：AI 驱动电路设计、仿真、蒙特卡洛分析、波形测量         | [Cognitohazard](https://github.com/Cognitohazard) | 21   |
