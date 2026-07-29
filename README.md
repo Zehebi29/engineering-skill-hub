@@ -192,7 +192,9 @@
 | MCP Server                                                        | 描述                                                                               | 来源                                                              | Star |
 | ----------------------------------------------------------------- | ---------------------------------------------------------------------------------- | ----------------------------------------------------------------- | ---- |
 | [vivado-mcp](https://github.com/mapleleavessssssss-wq/vivado-mcp) | Vivado MCP Server：AI 驱动 FPGA 开发，CRITICAL WARNING 诊断                        | [mapleleavessssssss-wq](https://github.com/mapleleavessssssss-wq) | 81   |
+| [xverif](https://github.com/BLANK2077/xverif)                                                                                  | 芯片验证调试 MCP 工具包：设计调试、波形分析、覆盖率、位计算、SVA 语义，387 commits 极活跃                                            | [BLANK2077](https://github.com/BLANK2077)                           | 69   |
 | [SynthPilot](https://github.com/LNC0831/SynthPilot)               | Vivado MCP server：500+ 工具覆盖全流程 FPGA 开发，含 oh-my-fpga 方法论层，本地运行 | [LNC0831](https://github.com/LNC0831)                             | 54   |
+| [pyslang-mcp](https://github.com/ariklapid/pyslang-mcp)                                                                         | Verilog/SystemVerilog 分析 MCP server：基于 pyslang 编译器的语义分析、诊断、层次结构、设计单元查询，活跃维护 84 commits               | [ariklapid](https://github.com/ariklapid)                           | 20   |
 
 #### 生物医学 / 医疗
 
