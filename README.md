@@ -186,6 +186,7 @@
 | ----------------------------------------------------------------------------- | ----------------------------------------------------------------- | --------------------------------------------- | ---- |
 | [esp-mcp](https://github.com/horw/esp-mcp)                                    | ESP32 开发 MCP server：集中管理 ESP-IDF 命令，简化嵌入式开发入门  | [horw](https://github.com/horw)               | 156  |
 | [embedded-debugger-mcp](https://github.com/Adancurusul/embedded-debugger-mcp) | 嵌入式调试 MCP server：支持 ARM Cortex-M、RISC-V 的 probe-rs 调试 | [Adancurusul](https://github.com/Adancurusul) | 131  |
+| [gr-mcp](https://github.com/yoelbassin/gr-mcp)                                             | GNU Radio MCP server：LLM 驱动 RF 频谱调查、接收机构建、SigMF 捕获与 .grc 流程图生成 | [yoelbassin](https://github.com/yoelbassin) | 46   |
 
 #### 半导体 / VLSI / FPGA
 
@@ -194,7 +195,9 @@
 | [vivado-mcp](https://github.com/mapleleavessssssss-wq/vivado-mcp) | Vivado MCP Server：AI 驱动 FPGA 开发，CRITICAL WARNING 诊断                        | [mapleleavessssssss-wq](https://github.com/mapleleavessssssss-wq) | 81   |
 | [xverif](https://github.com/BLANK2077/xverif)                                                                                  | 芯片验证调试 MCP 工具包：设计调试、波形分析、覆盖率、位计算、SVA 语义，387 commits 极活跃                                            | [BLANK2077](https://github.com/BLANK2077)                           | 69   |
 | [SynthPilot](https://github.com/LNC0831/SynthPilot)               | Vivado MCP server：500+ 工具覆盖全流程 FPGA 开发，含 oh-my-fpga 方法论层，本地运行 | [LNC0831](https://github.com/LNC0831)                             | 54   |
-| [pyslang-mcp](https://github.com/ariklapid/pyslang-mcp)                                                                         | Verilog/SystemVerilog 分析 MCP server：基于 pyslang 编译器的语义分析、诊断、层次结构、设计单元查询，活跃维护 84 commits               | [ariklapid](https://github.com/ariklapid)                           | 20   |
+
+| [pyslang-mcp](https://github.com/ariklapid/pyslang-mcp)                 | SystemVerilog 编译器级 MCP server：pyslang 解析 HDL 项目、诊断报告、层级与语义信息查询 | [ariklapid](https://github.com/ariklapid)   | 20   |
+
 
 #### 生物医学 / 医疗
 
