@@ -188,11 +188,12 @@
 
 #### 嵌入式 / 硬件
 
-| MCP Server                                                                    | 描述                                                                                 | 来源                                          | Star  |
+| MCP Server                                                                    | 描述                                                                                              | 来源                                          | Star |
 | -----------------------------------------------------------------------------  | ------------------------------------------------------------------------------------  | ---------------------------------------------  | ----  |
-| [esp-mcp](https://github.com/horw/esp-mcp)                                    | ESP32 开发 MCP server：集中管理 ESP-IDF 命令，简化嵌入式开发入门                     | [horw](https://github.com/horw)               | 155  |
-| [embedded-debugger-mcp](https://github.com/Adancurusul/embedded-debugger-mcp)  | 嵌入式调试 MCP server：支持 ARM Cortex-M、RISC-V 的 probe-rs 调试                    | [Adancurusul](https://github.com/Adancurusul)  | 137  |
-| [gr-mcp](https://github.com/yoelbassin/gr-mcp)                                | GNU Radio MCP server：LLM 驱动 RF 频谱调查、接收机构建、SigMF 捕获与 .grc 流程图生成  | [yoelbassin](https://github.com/yoelbassin)   | 47   |
+| [esp-mcp](https://github.com/horw/esp-mcp)                                    | ESP32 开发 MCP server：集中管理 ESP-IDF 命令，简化嵌入式开发入门                                  | [horw](https://github.com/horw)               | 155  |
+| [embedded-debugger-mcp](https://github.com/Adancurusul/embedded-debugger-mcp) | 嵌入式调试 MCP server：支持 ARM Cortex-M、RISC-V 的 probe-rs 调试                                 | [Adancurusul](https://github.com/Adancurusul) | 137  |
+| [serial-mcp-server](https://github.com/Adancurusul/serial-mcp-server)         | Rust 串口/UART MCP server + CLI：JSON 宏 DSL 定时流程自动化、无硬件仿真验证，含 agent skills 目录 | [Adancurusul](https://github.com/Adancurusul) | 83   |
+| [gr-mcp](https://github.com/yoelbassin/gr-mcp)                                | GNU Radio MCP server：LLM 驱动 RF 频谱调查、接收机构建、SigMF 捕获与 .grc 流程图生成              | [yoelbassin](https://github.com/yoelbassin)   | 47   |
 
 #### 半导体 / VLSI / FPGA
 
