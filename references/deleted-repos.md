@@ -10,15 +10,15 @@
 | kingtutt/RobotArm-MCP-P340 | 2026-05-24 / 2026-07-31 / 2026-08-02 | 机器人 | 三度确认 404 |
 | ATOMI-Ming/FreeCAD-MCP | 2026-05-25 / 2026-07-27 | 机械/CAD | 两度确认 404 |
 | faust-machines/mcp-fusion360 | 2026-07-11 | 机械/CAD | Fusion 360 MCP，已删除 |
-| adeleempurpled290/FPGA-Agent-skills | 2026-07-29 | 半导体/FPGA | Search API 幽灵候选，404 |
-| bjwanneng/veriflow-cc | 2026-07-29 | 半导体/FPGA | Search API 幽灵候选，404 |
-| RohanYashRaj/FPGA-Agent-skills | 2026-07-29 | 半导体/FPGA | Search API 幽灵候选，404 |
-| IO-Aerospace-software-engineering/mcp-server | 2026-08-01 | 航空航天 | 已删除 |
+| adeleempurpled290/FPGA-Agent-skills | 2026-07-29 → **08-12 复苏已收录** | 半导体/FPGA | 07-29 记录 404，08-12 API+browser 双确认存在并收录（Pitfall #29/#57 案例，勿再当 404） |
+| bjwanneng/veriflow-cc | 2026-07-29 | 半导体/FPGA | Search API 幽灵候选，404（08-03 已确认存在并收录，勿再当 404） |
+| RohanYashRaj/FPGA-Agent-skills | 2026-07-29 / 2026-08-16 | 半导体/FPGA | Search API 幽灵候选，两度确认 404（注意与 adeleempurpled290 复苏的 repo 不同 owner） |
+| IO-Aerospace-software-engineering/mcp-server | 2026-08-01 / 2026-08-16 | 航空航天 | 已删除（上游 awesome-mcp-servers 链接失效，多度确认） |
 | LNC/robot_MCP（又名 IliaLarchenko/robot_MCP） | 2026-07-31 / 2026-08-02 | 机器人 | 已删除，两拼写均 404 |
 | cyrilschumacher/ros2-mcp-server | 2026-07-31 / 2026-08-02 | 机器人 | 已删除 |
 | LaplaceYoung/mechanical-mcp | 2026-07-31 / 2026-08-02 | 航空航天 | ANSYS Mechanical gRPC MCP，已删除 |
 | LaplaceYoung/hfss-mcp | 2026-07-31 / 2026-08-02 | 航空航天 | HFSS via PyAEDT MCP，已删除 |
-| ffffffffelix/automotive-functional-safety | 2026-08-02 | 汽车/自动驾驶 | 功能安全 skill，已删除 |
+| ffffffffelix/automotive-functional-safety | 2026-08-02 / 2026-08-13 / 2026-08-16 | 汽车/自动驾驶 | ISO 26262 功能安全 skill，三度确认 404 |
 
 备注：2026-07-22 的 Way D（agent skill 搜索）4 个候选全部为 Search API 幽灵（返回名称/star 但仓库不存在）：
 brand-docs ★222、FPGA-Agent-skills ★25、veriflow-cc ★36、ccfoundry-agent-kit ★24。agent skill 类仓库生命周期比 MCP server 短，Way D 结果必须用 Individual Repo API 验证存在性（见 Pitfall #29）。
