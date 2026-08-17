@@ -8,7 +8,7 @@
 | petropt/petro-mcp | 2026-05-24 | 油藏/石油 | 石油数据 MCP，已删除 |
 | williamhoracek/unitree-go2-mcp-server | 2026-05-24 | 机器人 | 宇树 Go2 MCP，已删除 |
 | kingtutt/RobotArm-MCP-P340 | 2026-05-24 / 2026-07-31 / 2026-08-02 | 机器人 | 三度确认 404 |
-| ATOMI-Ming/FreeCAD-MCP | 2026-05-25 / 2026-07-27 | 机械/CAD | 两度确认 404 |
+| ATOMI-Ming/FreeCAD-MCP | 2026-05-25 / 2026-07-27 → **08-17 复苏确认存在** | 机械/CAD | 05-25/07-27 记录 404，08-17 Search API 返回 ★97 + Individual Repo API 确认存在（created 2025-08-26, pushed 2026-06-17, archived=False）。因 FreeCAD 生态饱和（README 已有 4 条目）未收录，勿再当 404 |
 | faust-machines/mcp-fusion360 | 2026-07-11 | 机械/CAD | Fusion 360 MCP，已删除 |
 | adeleempurpled290/FPGA-Agent-skills | 2026-07-29 → **08-12 复苏已收录** | 半导体/FPGA | 07-29 记录 404，08-12 API+browser 双确认存在并收录（Pitfall #29/#57 案例，勿再当 404） |
 | bjwanneng/veriflow-cc | 2026-07-29 | 半导体/FPGA | Search API 幽灵候选，404（08-03 已确认存在并收录，勿再当 404） |
