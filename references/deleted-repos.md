@@ -18,7 +18,7 @@
 | cyrilschumacher/ros2-mcp-server | 2026-07-31 / 2026-08-02 | 机器人 | 已删除 |
 | LaplaceYoung/mechanical-mcp | 2026-07-31 / 2026-08-02 | 航空航天 | ANSYS Mechanical gRPC MCP，已删除 |
 | LaplaceYoung/hfss-mcp | 2026-07-31 / 2026-08-02 | 航空航天 | HFSS via PyAEDT MCP，已删除 |
-| ffffffffelix/automotive-functional-safety | 2026-08-02 / 2026-08-13 / 2026-08-16 | 汽车/自动驾驶 | ISO 26262 功能安全 skill，三度确认 404 |
+| ffffffffelix/automotive-functional-safety | 2026-08-02 / 2026-08-13 / 2026-08-16 / 2026-08-24 | 汽车/自动驾驶 | ISO 26262 功能安全 skill，四度确认 404（08-24 再次 Individual Repo API 确认），从候选池移除 |
 
 备注：2026-07-22 的 Way D（agent skill 搜索）4 个候选全部为 Search API 幽灵（返回名称/star 但仓库不存在）：
 brand-docs ★222、FPGA-Agent-skills ★25、veriflow-cc ★36、ccfoundry-agent-kit ★24。agent skill 类仓库生命周期比 MCP server 短，Way D 结果必须用 Individual Repo API 验证存在性（见 Pitfall #29）。
